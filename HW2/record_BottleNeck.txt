@@ -1,1 +1,96 @@
 [2024-03-19 00:47:10] test modify Resnet18-only 4 layers
+model total parameters: 87,114
+learning rate=0.005
+[2024-03-19 00:48:10] Epoch [1/20], phase: train, samples: 58437, Loss: 0.0033, Top-1 Accuracy: 73.33%, Top-3 Accuracy: 91.32%
+[2024-03-19 00:48:22] Epoch [1/20], phase: val, samples: 19479, Loss: 0.0012, Top-1 Accuracy: 92.05%, Top-3 Accuracy: 98.47%
+[2024-03-19 00:49:12] Epoch [2/20], phase: train, samples: 58437, Loss: 0.0008, Top-1 Accuracy: 94.62%, Top-3 Accuracy: 99.16%
+[2024-03-19 00:49:24] Epoch [2/20], phase: val, samples: 19479, Loss: 0.0021, Top-1 Accuracy: 81.61%, Top-3 Accuracy: 98.21%
+[2024-03-19 01:00:15] test modify Resnet18 resnet4_btnk
+model total parameters: 87,114
+learning rate=0.005
+[2024-03-19 01:00:15] Epoch [1/1], phase: train, samples: 256, Loss: 0.0092, Top-1 Accuracy: 6.25%, Top-3 Accuracy: 24.22%
+[2024-03-19 01:00:15] Epoch [1/1], phase: val, samples: 256, Loss: 0.0092, Top-1 Accuracy: 12.89%, Top-3 Accuracy: 31.25%
+Elapsed time: 0.5398197174072266 seconds
+[2024-03-19 01:00:15] test modify Resnet18 resnet4_btnk_ch16
+model total parameters: 7,962
+learning rate=0.005
+[2024-03-19 01:00:15] Epoch [1/1], phase: train, samples: 256, Loss: 0.0091, Top-1 Accuracy: 3.91%, Top-3 Accuracy: 21.09%
+[2024-03-19 01:00:15] Epoch [1/1], phase: val, samples: 256, Loss: 0.0091, Top-1 Accuracy: 10.55%, Top-3 Accuracy: 31.25%
+Elapsed time: 0.2199258804321289 seconds
+[2024-03-19 01:00:15] test modify Resnet18 resnet6_ch16
+model total parameters: 11,898
+learning rate=0.005
+[2024-03-19 01:00:16] Epoch [1/1], phase: train, samples: 256, Loss: 0.0092, Top-1 Accuracy: 8.59%, Top-3 Accuracy: 27.34%
+[2024-03-19 01:00:16] Epoch [1/1], phase: val, samples: 256, Loss: 0.0102, Top-1 Accuracy: 8.59%, Top-3 Accuracy: 25.39%
+Elapsed time: 0.31989264488220215 seconds
+[2024-03-19 01:00:16] test modify Resnet18 resnet6_ch4
+model total parameters: 1,254
+learning rate=0.005
+[2024-03-19 01:00:16] Epoch [1/1], phase: train, samples: 256, Loss: 0.0090, Top-1 Accuracy: 10.16%, Top-3 Accuracy: 32.42%
+[2024-03-19 01:00:16] Epoch [1/1], phase: val, samples: 256, Loss: 0.0093, Top-1 Accuracy: 7.81%, Top-3 Accuracy: 32.03%
+Elapsed time: 0.44984889030456543 seconds
+[2024-03-19 01:00:16] test modify Resnet18 resnet6_btnk_ch16
+model total parameters: 12,506
+learning rate=0.005
+[2024-03-19 01:00:16] Epoch [1/1], phase: train, samples: 256, Loss: 0.0091, Top-1 Accuracy: 10.55%, Top-3 Accuracy: 35.94%
+[2024-03-19 01:00:17] Epoch [1/1], phase: val, samples: 256, Loss: 0.0092, Top-1 Accuracy: 10.94%, Top-3 Accuracy: 27.73%
+Elapsed time: 0.2999000549316406 seconds
+[2024-03-19 01:00:17] test modify Resnet18 resnet6_btnk_ch4
+model total parameters: 1,454
+learning rate=0.005
+[2024-03-19 01:00:17] Epoch [1/1], phase: train, samples: 256, Loss: 0.0091, Top-1 Accuracy: 11.33%, Top-3 Accuracy: 26.56%
+[2024-03-19 01:00:17] Epoch [1/1], phase: val, samples: 256, Loss: 0.0091, Top-1 Accuracy: 8.20%, Top-3 Accuracy: 30.86%
+Elapsed time: 0.2899034023284912 seconds
+[2024-03-19 01:00:17] test modify Resnet18 resnet10_btnk_ch4
+model total parameters: 776
+learning rate=0.005
+[2024-03-19 01:00:17] Epoch [1/1], phase: train, samples: 256, Loss: 0.0092, Top-1 Accuracy: 5.86%, Top-3 Accuracy: 28.12%
+[2024-03-19 01:00:17] Epoch [1/1], phase: val, samples: 256, Loss: 0.0090, Top-1 Accuracy: 9.77%, Top-3 Accuracy: 29.30%
+Elapsed time: 0.2998993396759033 seconds
+[2024-03-19 01:01:55] test modify Resnet18 resnet4_btnk
+model total parameters: 87,114
+learning rate=0.005
+[2024-03-19 01:01:55] Epoch [1/1], phase: train, samples: 256, Loss: 0.0092, Top-1 Accuracy: 9.38%, Top-3 Accuracy: 24.61%
+[2024-03-19 01:01:55] Epoch [1/1], phase: val, samples: 256, Loss: 0.0095, Top-1 Accuracy: 8.20%, Top-3 Accuracy: 27.34%
+Elapsed time: 0.5897607803344727 seconds
+[2024-03-19 01:01:55] test modify Resnet18 resnet4_btnk_ch16
+model total parameters: 7,962
+learning rate=0.005
+[2024-03-19 01:01:55] Epoch [1/1], phase: train, samples: 256, Loss: 0.0091, Top-1 Accuracy: 9.38%, Top-3 Accuracy: 29.69%
+[2024-03-19 01:01:55] Epoch [1/1], phase: val, samples: 256, Loss: 0.0090, Top-1 Accuracy: 12.50%, Top-3 Accuracy: 29.69%
+Elapsed time: 0.2099299430847168 seconds
+[2024-03-19 01:01:55] test modify Resnet18 resnet6_ch16
+model total parameters: 11,898
+learning rate=0.005
+[2024-03-19 01:01:56] Epoch [1/1], phase: train, samples: 256, Loss: 0.0093, Top-1 Accuracy: 5.47%, Top-3 Accuracy: 27.34%
+[2024-03-19 01:01:56] Epoch [1/1], phase: val, samples: 256, Loss: 0.0093, Top-1 Accuracy: 8.98%, Top-3 Accuracy: 26.17%
+Elapsed time: 0.23991966247558594 seconds
+[2024-03-19 01:01:56] test modify Resnet18 resnet6_ch4
+model total parameters: 1,254
+learning rate=0.005
+[2024-03-19 01:01:56] Epoch [1/1], phase: train, samples: 256, Loss: 0.0093, Top-1 Accuracy: 10.16%, Top-3 Accuracy: 28.52%
+[2024-03-19 01:01:56] Epoch [1/1], phase: val, samples: 256, Loss: 0.0094, Top-1 Accuracy: 15.23%, Top-3 Accuracy: 38.67%
+Elapsed time: 0.3398861885070801 seconds
+[2024-03-19 01:01:56] test modify Resnet18 resnet6_btnk_ch16
+model total parameters: 12,506
+learning rate=0.005
+[2024-03-19 01:01:56] Epoch [1/1], phase: train, samples: 256, Loss: 0.0090, Top-1 Accuracy: 5.47%, Top-3 Accuracy: 32.42%
+[2024-03-19 01:01:56] Epoch [1/1], phase: val, samples: 256, Loss: 0.0091, Top-1 Accuracy: 11.72%, Top-3 Accuracy: 28.12%
+Elapsed time: 0.23992037773132324 seconds
+[2024-03-19 01:01:56] test modify Resnet18 resnet6_btnk_ch4
+model total parameters: 1,454
+learning rate=0.005
+[2024-03-19 01:01:56] Epoch [1/1], phase: train, samples: 256, Loss: 0.0091, Top-1 Accuracy: 11.33%, Top-3 Accuracy: 35.16%
+[2024-03-19 01:01:57] Epoch [1/1], phase: val, samples: 256, Loss: 0.0091, Top-1 Accuracy: 7.81%, Top-3 Accuracy: 25.00%
+Elapsed time: 0.25991296768188477 seconds
+[2024-03-19 01:01:57] test modify Resnet18 resnet10_btnk_ch2
+model total parameters: 776
+learning rate=0.005
+[2024-03-19 01:01:57] Epoch [1/1], phase: train, samples: 256, Loss: 0.0097, Top-1 Accuracy: 7.42%, Top-3 Accuracy: 31.64%
+[2024-03-19 01:01:57] Epoch [1/1], phase: val, samples: 256, Loss: 0.0091, Top-1 Accuracy: 10.94%, Top-3 Accuracy: 29.30%
+Elapsed time: 0.3398854732513428 seconds
+
+
+[2024-03-19 01:02:15] test modify Resnet18 resnet4_btnk
+model total parameters: 87,114
+learning rate=0.005
