@@ -1,0 +1,30 @@
+[2024-03-18 23:29:14] test modify Resnet18-only 6 layers
+[2024-03-18 23:31:16] test modify Resnet18-only 6 layers
+model total parameters: 1,286,474
+learning rate=0.005
+[2024-03-18 23:31:59] test modify Resnet18-only 6 layers
+model total parameters: 1,286,474
+learning rate=0.005
+[2024-03-18 23:34:28] test modify Resnet18-only 6 layers
+model total parameters: 2,164,554
+learning rate=0.005
+model total parameters: 2,164,554
+learning rate=0.005
+[2024-03-18 23:37:51] test modify Resnet18-only 6 layers
+model total parameters: 2,164,554
+learning rate=0.005
+model total parameters: 2,164,554
+learning rate=0.005
+model total parameters: 11,689,512
+learning rate=0.005
+[2024-03-18 23:42:18] test modify Resnet18-only 6 layers
+model total parameters: 11,689,512
+learning rate=0.005
+[2024-03-18 23:45:06] test modify Resnet18-only 6 layers
+model total parameters: 158,154
+learning rate=0.005
+[2024-03-18 23:49:13] Epoch [1/20], phase: train, samples: 58437, Loss: 0.0027, Top-1 Accuracy: 79.50%, Top-3 Accuracy: 93.52%
+[2024-03-18 23:49:56] Epoch [2/20], phase: train, samples: 58437, Loss: 0.0005, Top-1 Accuracy: 96.37%, Top-3 Accuracy: 99.51%
+[2024-03-18 23:50:46] Epoch [3/20], phase: train, samples: 58437, Loss: 0.0003, Top-1 Accuracy: 97.51%, Top-3 Accuracy: 99.73%
+[2024-03-18 23:51:28] Epoch [4/20], phase: train, samples: 58437, Loss: 0.0003, Top-1 Accuracy: 98.11%, Top-3 Accuracy: 99.82%
+[2024-03-18 23:52:11] Epoch [5/20], phase: train, samples: 58437, Loss: 0.0002, Top-1 Accuracy: 98.33%, Top-3 Accuracy: 99.85%

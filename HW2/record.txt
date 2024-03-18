@@ -1,0 +1,111 @@
+
+
+[2024-03-18 18:45:17] BASELINE with simpleCNN
+model total parameters: 15,770
+model total parameters: 15,770
+[2024-03-18 18:49:28] Epoch [1/10], phase: train, samples: 58437, Loss: 0.0102, Top-1 Accuracy: 22.97%, Top-3 Accuracy: 51.10%
+[2024-03-18 18:49:36] Epoch [1/10], phase: val, samples: 19479, Loss: 0.0077, Top-1 Accuracy: 31.05%, Top-3 Accuracy: 61.76%
+[2024-03-18 18:50:01] Epoch [2/10], phase: train, samples: 58437, Loss: 0.0070, Top-1 Accuracy: 36.14%, Top-3 Accuracy: 68.12%
+[2024-03-18 18:50:09] Epoch [2/10], phase: val, samples: 19479, Loss: 0.0070, Top-1 Accuracy: 37.88%, Top-3 Accuracy: 69.81%
+[2024-03-18 18:50:34] Epoch [3/10], phase: train, samples: 58437, Loss: 0.0064, Top-1 Accuracy: 42.43%, Top-3 Accuracy: 74.22%
+[2024-03-18 18:50:42] Epoch [3/10], phase: val, samples: 19479, Loss: 0.0071, Top-1 Accuracy: 38.84%, Top-3 Accuracy: 70.39%
+[2024-03-18 18:51:07] Epoch [4/10], phase: train, samples: 58437, Loss: 0.0061, Top-1 Accuracy: 45.05%, Top-3 Accuracy: 76.06%
+[2024-03-18 18:51:15] Epoch [4/10], phase: val, samples: 19479, Loss: 0.0070, Top-1 Accuracy: 40.22%, Top-3 Accuracy: 71.21%
+[2024-03-18 18:51:43] Epoch [5/10], phase: train, samples: 58437, Loss: 0.0060, Top-1 Accuracy: 46.47%, Top-3 Accuracy: 76.94%
+[2024-03-18 18:51:51] Epoch [5/10], phase: val, samples: 19479, Loss: 0.0070, Top-1 Accuracy: 40.72%, Top-3 Accuracy: 71.73%
+[2024-03-18 18:52:17] Epoch [6/10], phase: train, samples: 58437, Loss: 0.0059, Top-1 Accuracy: 47.34%, Top-3 Accuracy: 77.62%
+[2024-03-18 18:52:25] Epoch [6/10], phase: val, samples: 19479, Loss: 0.0069, Top-1 Accuracy: 41.04%, Top-3 Accuracy: 72.20%
+[2024-03-18 18:52:51] Epoch [7/10], phase: train, samples: 58437, Loss: 0.0058, Top-1 Accuracy: 47.92%, Top-3 Accuracy: 78.09%
+[2024-03-18 18:53:00] Epoch [7/10], phase: val, samples: 19479, Loss: 0.0069, Top-1 Accuracy: 41.44%, Top-3 Accuracy: 72.75%
+[2024-03-18 18:53:27] Epoch [8/10], phase: train, samples: 58437, Loss: 0.0058, Top-1 Accuracy: 48.23%, Top-3 Accuracy: 78.35%
+[2024-03-18 18:53:35] Epoch [8/10], phase: val, samples: 19479, Loss: 0.0069, Top-1 Accuracy: 41.47%, Top-3 Accuracy: 72.75%
+[2024-03-18 18:54:03] Epoch [9/10], phase: train, samples: 58437, Loss: 0.0058, Top-1 Accuracy: 48.48%, Top-3 Accuracy: 78.68%
+[2024-03-18 18:54:12] Epoch [9/10], phase: val, samples: 19479, Loss: 0.0069, Top-1 Accuracy: 41.52%, Top-3 Accuracy: 72.82%
+[2024-03-18 18:54:40] Epoch [10/10], phase: train, samples: 58437, Loss: 0.0057, Top-1 Accuracy: 48.88%, Top-3 Accuracy: 78.90%
+[2024-03-18 18:54:49] Epoch [10/10], phase: val, samples: 19479, Loss: 0.0068, Top-1 Accuracy: 42.08%, Top-3 Accuracy: 73.72%
+[2024-03-18 18:55:15] Epoch [11/10], phase: train, samples: 58437, Loss: 0.0057, Top-1 Accuracy: 48.98%, Top-3 Accuracy: 79.16%
+[2024-03-18 18:55:24] Epoch [11/10], phase: val, samples: 19479, Loss: 0.0068, Top-1 Accuracy: 42.26%, Top-3 Accuracy: 73.74%
+[2024-03-18 18:55:49] Epoch [12/10], phase: train, samples: 58437, Loss: 0.0057, Top-1 Accuracy: 49.17%, Top-3 Accuracy: 79.22%
+[2024-03-18 18:55:58] Epoch [12/10], phase: val, samples: 19479, Loss: 0.0067, Top-1 Accuracy: 43.40%, Top-3 Accuracy: 74.51%
+[2024-03-18 18:56:24] Epoch [13/10], phase: train, samples: 58437, Loss: 0.0057, Top-1 Accuracy: 49.44%, Top-3 Accuracy: 79.39%
+[2024-03-18 18:56:33] Epoch [13/10], phase: val, samples: 19479, Loss: 0.0066, Top-1 Accuracy: 44.24%, Top-3 Accuracy: 75.22%
+[2024-03-18 18:56:59] Epoch [14/10], phase: train, samples: 58437, Loss: 0.0057, Top-1 Accuracy: 49.33%, Top-3 Accuracy: 79.43%
+[2024-03-18 18:57:07] Epoch [14/10], phase: val, samples: 19479, Loss: 0.0066, Top-1 Accuracy: 44.73%, Top-3 Accuracy: 75.57%
+[2024-03-18 18:57:34] Epoch [15/10], phase: train, samples: 58437, Loss: 0.0057, Top-1 Accuracy: 49.60%, Top-3 Accuracy: 79.52%
+[2024-03-18 18:57:42] Epoch [15/10], phase: val, samples: 19479, Loss: 0.0065, Top-1 Accuracy: 44.94%, Top-3 Accuracy: 75.80%
+[2024-03-18 18:58:08] Epoch [16/10], phase: train, samples: 58437, Loss: 0.0057, Top-1 Accuracy: 49.70%, Top-3 Accuracy: 79.56%
+[2024-03-18 18:58:16] Epoch [16/10], phase: val, samples: 19479, Loss: 0.0068, Top-1 Accuracy: 43.25%, Top-3 Accuracy: 74.50%
+[2024-03-18 18:58:44] Epoch [17/10], phase: train, samples: 58437, Loss: 0.0057, Top-1 Accuracy: 49.55%, Top-3 Accuracy: 79.45%
+[2024-03-18 18:58:52] Epoch [17/10], phase: val, samples: 19479, Loss: 0.0071, Top-1 Accuracy: 41.77%, Top-3 Accuracy: 73.18%
+[2024-03-18 18:59:20] Epoch [18/10], phase: train, samples: 58437, Loss: 0.0057, Top-1 Accuracy: 49.63%, Top-3 Accuracy: 79.52%
+[2024-03-18 18:59:29] Epoch [18/10], phase: val, samples: 19479, Loss: 0.0071, Top-1 Accuracy: 41.79%, Top-3 Accuracy: 73.35%
+[2024-03-18 18:59:56] Epoch [19/10], phase: train, samples: 58437, Loss: 0.0056, Top-1 Accuracy: 49.89%, Top-3 Accuracy: 79.80%
+[2024-03-18 19:00:04] Epoch [19/10], phase: val, samples: 19479, Loss: 0.0069, Top-1 Accuracy: 42.88%, Top-3 Accuracy: 73.85%
+[2024-03-18 19:00:31] Epoch [20/10], phase: train, samples: 58437, Loss: 0.0056, Top-1 Accuracy: 50.09%, Top-3 Accuracy: 79.95%
+[2024-03-18 19:00:40] Epoch [20/10], phase: val, samples: 19479, Loss: 0.0071, Top-1 Accuracy: 41.98%, Top-3 Accuracy: 73.26%
+Elapsed time: 697.8512082099915 seconds
+
+model total parameters: 15,770
+learning rate=0.05
+[2024-03-18 19:02:02] Epoch [1/20], phase: train, samples: 58437, Loss: 0.0134, Top-1 Accuracy: 10.76%, Top-3 Accuracy: 31.36%
+[2024-03-18 19:02:10] Epoch [1/20], phase: val, samples: 19479, Loss: 0.0091, Top-1 Accuracy: 11.60%, Top-3 Accuracy: 32.39%
+[2024-03-18 19:02:37] Epoch [2/20], phase: train, samples: 58437, Loss: 0.0090, Top-1 Accuracy: 10.78%, Top-3 Accuracy: 31.35%
+[2024-03-18 19:02:45] Epoch [2/20], phase: val, samples: 19479, Loss: 0.0091, Top-1 Accuracy: 11.60%, Top-3 Accuracy: 32.39%
+[2024-03-18 19:03:12] Epoch [3/20], phase: train, samples: 58437, Loss: 0.0090, Top-1 Accuracy: 10.78%, Top-3 Accuracy: 31.39%
+[2024-03-18 19:03:20] Epoch [3/20], phase: val, samples: 19479, Loss: 0.0091, Top-1 Accuracy: 11.60%, Top-3 Accuracy: 32.39%
+[2024-03-18 19:03:47] Epoch [4/20], phase: train, samples: 58437, Loss: 0.0090, Top-1 Accuracy: 10.79%, Top-3 Accuracy: 31.40%
+[2024-03-18 19:03:55] Epoch [4/20], phase: val, samples: 19479, Loss: 0.0091, Top-1 Accuracy: 11.60%, Top-3 Accuracy: 32.39%
+[2024-03-18 19:04:20] Epoch [5/20], phase: train, samples: 58437, Loss: 0.0090, Top-1 Accuracy: 10.78%, Top-3 Accuracy: 31.39%
+[2024-03-18 19:04:29] Epoch [5/20], phase: val, samples: 19479, Loss: 0.0091, Top-1 Accuracy: 11.60%, Top-3 Accuracy: 32.39%
+[2024-03-18 19:04:55] Epoch [6/20], phase: train, samples: 58437, Loss: 0.0090, Top-1 Accuracy: 10.77%, Top-3 Accuracy: 31.42%
+[2024-03-18 19:05:03] Epoch [6/20], phase: val, samples: 19479, Loss: 0.0091, Top-1 Accuracy: 11.60%, Top-3 Accuracy: 32.39%
+[2024-03-18 19:05:28] Epoch [7/20], phase: train, samples: 58437, Loss: 0.0090, Top-1 Accuracy: 10.77%, Top-3 Accuracy: 31.41%
+[2024-03-18 19:05:37] Epoch [7/20], phase: val, samples: 19479, Loss: 0.0091, Top-1 Accuracy: 11.60%, Top-3 Accuracy: 32.39%
+
+[2024-03-18 19:07:28] BASELINE with Resnet18
+model total parameters: 15,770
+learning rate=0.005
+model total parameters: 11,683,240
+learning rate=0.005
+[2024-03-18 19:08:21] Epoch [1/20], phase: train, samples: 58437, Loss: 0.0068, Top-1 Accuracy: 37.09%, Top-3 Accuracy: 63.95%
+[2024-03-18 19:08:31] Epoch [1/20], phase: val, samples: 19479, Loss: 0.0052, Top-1 Accuracy: 54.44%, Top-3 Accuracy: 80.98%
+[2024-03-18 19:09:03] Epoch [2/20], phase: train, samples: 58437, Loss: 0.0034, Top-1 Accuracy: 70.17%, Top-3 Accuracy: 89.38%
+[2024-03-18 19:09:12] Epoch [2/20], phase: val, samples: 19479, Loss: 0.0031, Top-1 Accuracy: 73.54%, Top-3 Accuracy: 91.40%
+[2024-03-18 19:09:45] Epoch [3/20], phase: train, samples: 58437, Loss: 0.0027, Top-1 Accuracy: 76.27%, Top-3 Accuracy: 92.61%
+[2024-03-18 19:09:54] Epoch [3/20], phase: val, samples: 19479, Loss: 0.0028, Top-1 Accuracy: 76.65%, Top-3 Accuracy: 92.64%
+[2024-03-18 19:10:26] Epoch [4/20], phase: train, samples: 58437, Loss: 0.0024, Top-1 Accuracy: 79.43%, Top-3 Accuracy: 93.90%
+[2024-03-18 19:10:36] Epoch [4/20], phase: val, samples: 19479, Loss: 0.0029, Top-1 Accuracy: 76.04%, Top-3 Accuracy: 92.62%
+[2024-03-18 19:11:09] Epoch [5/20], phase: train, samples: 58437, Loss: 0.0022, Top-1 Accuracy: 81.23%, Top-3 Accuracy: 94.61%
+[2024-03-18 19:11:19] Epoch [5/20], phase: val, samples: 19479, Loss: 0.0027, Top-1 Accuracy: 77.47%, Top-3 Accuracy: 92.56%
+[2024-03-18 19:11:53] Epoch [6/20], phase: train, samples: 58437, Loss: 0.0021, Top-1 Accuracy: 82.45%, Top-3 Accuracy: 95.11%
+[2024-03-18 19:12:03] Epoch [6/20], phase: val, samples: 19479, Loss: 0.0029, Top-1 Accuracy: 77.11%, Top-3 Accuracy: 92.58%
+[2024-03-18 19:12:35] Epoch [7/20], phase: train, samples: 58437, Loss: 0.0019, Top-1 Accuracy: 83.56%, Top-3 Accuracy: 95.57%
+[2024-03-18 19:12:45] Epoch [7/20], phase: val, samples: 19479, Loss: 0.0032, Top-1 Accuracy: 75.50%, Top-3 Accuracy: 91.81%
+[2024-03-18 19:13:16] Epoch [8/20], phase: train, samples: 58437, Loss: 0.0018, Top-1 Accuracy: 84.51%, Top-3 Accuracy: 95.96%
+[2024-03-18 19:13:26] Epoch [8/20], phase: val, samples: 19479, Loss: 0.0031, Top-1 Accuracy: 77.33%, Top-3 Accuracy: 92.22%
+[2024-03-18 19:13:56] Epoch [9/20], phase: train, samples: 58437, Loss: 0.0017, Top-1 Accuracy: 85.28%, Top-3 Accuracy: 96.26%
+[2024-03-18 19:14:06] Epoch [9/20], phase: val, samples: 19479, Loss: 0.0032, Top-1 Accuracy: 77.05%, Top-3 Accuracy: 92.16%
+[2024-03-18 19:14:37] Epoch [10/20], phase: train, samples: 58437, Loss: 0.0017, Top-1 Accuracy: 85.87%, Top-3 Accuracy: 96.43%
+[2024-03-18 19:14:47] Epoch [10/20], phase: val, samples: 19479, Loss: 0.0033, Top-1 Accuracy: 76.90%, Top-3 Accuracy: 91.79%
+[2024-03-18 19:15:19] Epoch [11/20], phase: train, samples: 58437, Loss: 0.0016, Top-1 Accuracy: 86.47%, Top-3 Accuracy: 96.73%
+[2024-03-18 19:15:28] Epoch [11/20], phase: val, samples: 19479, Loss: 0.0033, Top-1 Accuracy: 76.45%, Top-3 Accuracy: 92.88%
+[2024-03-18 19:16:00] Epoch [12/20], phase: train, samples: 58437, Loss: 0.0015, Top-1 Accuracy: 87.08%, Top-3 Accuracy: 96.92%
+[2024-03-18 19:16:10] Epoch [12/20], phase: val, samples: 19479, Loss: 0.0027, Top-1 Accuracy: 80.25%, Top-3 Accuracy: 94.25%
+[2024-03-18 19:16:41] Epoch [13/20], phase: train, samples: 58437, Loss: 0.0014, Top-1 Accuracy: 87.52%, Top-3 Accuracy: 97.18%
+[2024-03-18 19:16:51] Epoch [13/20], phase: val, samples: 19479, Loss: 0.0032, Top-1 Accuracy: 78.12%, Top-3 Accuracy: 92.94%
+[2024-03-18 19:17:19] Epoch [14/20], phase: train, samples: 58437, Loss: 0.0014, Top-1 Accuracy: 88.25%, Top-3 Accuracy: 97.49%
+[2024-03-18 19:17:29] Epoch [14/20], phase: val, samples: 19479, Loss: 0.0033, Top-1 Accuracy: 77.81%, Top-3 Accuracy: 92.59%
+[2024-03-18 19:18:01] Epoch [15/20], phase: train, samples: 58437, Loss: 0.0013, Top-1 Accuracy: 89.04%, Top-3 Accuracy: 97.71%
+[2024-03-18 19:18:11] Epoch [15/20], phase: val, samples: 19479, Loss: 0.0032, Top-1 Accuracy: 78.66%, Top-3 Accuracy: 92.77%
+[2024-03-18 19:18:43] Epoch [16/20], phase: train, samples: 58437, Loss: 0.0012, Top-1 Accuracy: 89.38%, Top-3 Accuracy: 97.83%
+[2024-03-18 19:18:53] Epoch [16/20], phase: val, samples: 19479, Loss: 0.0029, Top-1 Accuracy: 80.15%, Top-3 Accuracy: 93.82%
+[2024-03-18 19:19:25] Epoch [17/20], phase: train, samples: 58437, Loss: 0.0011, Top-1 Accuracy: 90.04%, Top-3 Accuracy: 98.11%
+[2024-03-18 19:19:35] Epoch [17/20], phase: val, samples: 19479, Loss: 0.0028, Top-1 Accuracy: 80.86%, Top-3 Accuracy: 93.90%
+[2024-03-18 19:20:06] Epoch [18/20], phase: train, samples: 58437, Loss: 0.0011, Top-1 Accuracy: 90.48%, Top-3 Accuracy: 98.29%
+[2024-03-18 19:20:15] Epoch [18/20], phase: val, samples: 19479, Loss: 0.0032, Top-1 Accuracy: 80.05%, Top-3 Accuracy: 93.57%
+[2024-03-18 19:20:47] Epoch [19/20], phase: train, samples: 58437, Loss: 0.0010, Top-1 Accuracy: 90.96%, Top-3 Accuracy: 98.45%
+[2024-03-18 19:20:57] Epoch [19/20], phase: val, samples: 19479, Loss: 0.0029, Top-1 Accuracy: 81.34%, Top-3 Accuracy: 94.23%
+[2024-03-18 19:21:29] Epoch [20/20], phase: train, samples: 58437, Loss: 0.0009, Top-1 Accuracy: 91.65%, Top-3 Accuracy: 98.71%
+[2024-03-18 19:21:39] Epoch [20/20], phase: val, samples: 19479, Loss: 0.0035, Top-1 Accuracy: 78.33%, Top-3 Accuracy: 92.96%
+Elapsed time: 830.2489724159241 seconds
+[2024-03-18 23:28:34] BASELINE with Resnet18
