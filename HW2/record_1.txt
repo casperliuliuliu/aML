@@ -34,3 +34,23 @@ learning rate=0.005
 [2024-03-18 23:55:12] Epoch [9/20], phase: train, samples: 58437, Loss: 0.0001, Top-1 Accuracy: 99.01%, Top-3 Accuracy: 99.95%
 [2024-03-18 23:56:00] Epoch [10/20], phase: train, samples: 58437, Loss: 0.0001, Top-1 Accuracy: 99.12%, Top-3 Accuracy: 99.94%
 [2024-03-18 23:56:50] Epoch [11/20], phase: train, samples: 58437, Loss: 0.0001, Top-1 Accuracy: 99.27%, Top-3 Accuracy: 99.95%
+[2024-03-18 23:57:35] Epoch [12/20], phase: train, samples: 58437, Loss: 0.0001, Top-1 Accuracy: 99.31%, Top-3 Accuracy: 99.97%
+[2024-03-18 23:58:23] Epoch [13/20], phase: train, samples: 58437, Loss: 0.0001, Top-1 Accuracy: 99.25%, Top-3 Accuracy: 99.97%
+[2024-03-18 23:59:05] Epoch [14/20], phase: train, samples: 58437, Loss: 0.0001, Top-1 Accuracy: 99.35%, Top-3 Accuracy: 99.98%
+[2024-03-19 00:00:25] Epoch [14/20], phase: val, samples: 19479, Loss: 0.0012, Top-1 Accuracy: 91.34%, Top-3 Accuracy: 99.45%
+[2024-03-19 00:01:08] Epoch [15/20], phase: train, samples: 58437, Loss: 0.0001, Top-1 Accuracy: 99.33%, Top-3 Accuracy: 99.98%
+[2024-03-19 00:01:20] Epoch [15/20], phase: val, samples: 19479, Loss: 0.0006, Top-1 Accuracy: 95.47%, Top-3 Accuracy: 99.39%
+[2024-03-19 00:02:05] Epoch [16/20], phase: train, samples: 58437, Loss: 0.0001, Top-1 Accuracy: 99.44%, Top-3 Accuracy: 99.98%
+[2024-03-19 00:02:19] Epoch [16/20], phase: val, samples: 19479, Loss: 0.0015, Top-1 Accuracy: 90.21%, Top-3 Accuracy: 97.97%
+[2024-03-19 00:03:07] Epoch [17/20], phase: train, samples: 58437, Loss: 0.0001, Top-1 Accuracy: 99.42%, Top-3 Accuracy: 99.98%
+[2024-03-19 00:03:21] Epoch [17/20], phase: val, samples: 19479, Loss: 0.0004, Top-1 Accuracy: 97.24%, Top-3 Accuracy: 99.71%
+[2024-03-19 00:04:02] Epoch [18/20], phase: train, samples: 58437, Loss: 0.0001, Top-1 Accuracy: 99.46%, Top-3 Accuracy: 99.99%
+[2024-03-19 00:04:14] Epoch [18/20], phase: val, samples: 19479, Loss: 0.0005, Top-1 Accuracy: 96.00%, Top-3 Accuracy: 99.75%
+[2024-03-19 00:04:53] Epoch [19/20], phase: train, samples: 58437, Loss: 0.0001, Top-1 Accuracy: 99.50%, Top-3 Accuracy: 99.99%
+[2024-03-19 00:05:07] Epoch [19/20], phase: val, samples: 19479, Loss: 0.0019, Top-1 Accuracy: 88.26%, Top-3 Accuracy: 98.41%
+[2024-03-19 00:05:46] Epoch [20/20], phase: train, samples: 58437, Loss: 0.0001, Top-1 Accuracy: 99.55%, Top-3 Accuracy: 99.99%
+[2024-03-19 00:05:59] Epoch [20/20], phase: val, samples: 19479, Loss: 0.0009, Top-1 Accuracy: 94.75%, Top-3 Accuracy: 99.26%
+Elapsed time: 1251.9374370574951 seconds
+model total parameters: 84,170
+learning rate=0.005
+model total parameters: 84,170

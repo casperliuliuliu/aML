@@ -108,4 +108,4 @@ learning rate=0.005
 [2024-03-18 19:21:29] Epoch [20/20], phase: train, samples: 58437, Loss: 0.0009, Top-1 Accuracy: 91.65%, Top-3 Accuracy: 98.71%
 [2024-03-18 19:21:39] Epoch [20/20], phase: val, samples: 19479, Loss: 0.0035, Top-1 Accuracy: 78.33%, Top-3 Accuracy: 92.96%
 Elapsed time: 830.2489724159241 seconds
-[2024-03-18 23:28:34] BASELINE with Resnet18
+
