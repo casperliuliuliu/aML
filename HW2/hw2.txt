@@ -1,0 +1,37 @@
+[2024-03-19 22:44:04] train acc
+[2024-03-19 22:46:27] test modify Resnet18 R6_btnk_ch8(hw2)
+model total parameters: 3,698
+learning rate=0.005
+[2024-03-19 22:47:08] test modify Resnet18 R6_btnk_ch8(hw2)
+model total parameters: 4,018
+learning rate=0.005
+[2024-03-19 22:47:22] test modify Resnet18 R6_btnk_ch8(hw2)
+model total parameters: 4,018
+learning rate=0.005
+Epoch [1/20], phase: train, samples: 97396, Loss: 0.0037, Top-1 Accuracy: 70.60%, Top-3 Accuracy: 90.33%
+[2024-03-19 22:52:25] test modify Resnet18 R6_btnk_ch8(hw2)
+model total parameters: 4,018
+learning rate=0.005
+Epoch [1/20], phase: train, samples: 97396, Loss: 0.0040, Top-1 Accuracy: 67.92%, Top-3 Accuracy: 90.21%
+Epoch [2/20], phase: train, samples: 97396, Loss: 0.0013, Top-1 Accuracy: 91.15%, Top-3 Accuracy: 98.43%
+Epoch [3/20], phase: train, samples: 97396, Loss: 0.0009, Top-1 Accuracy: 93.74%, Top-3 Accuracy: 99.01%
+Epoch [4/20], phase: train, samples: 97396, Loss: 0.0007, Top-1 Accuracy: 94.79%, Top-3 Accuracy: 99.26%
+Epoch [5/20], phase: train, samples: 97396, Loss: 0.0006, Top-1 Accuracy: 95.34%, Top-3 Accuracy: 99.38%
+Epoch [6/20], phase: train, samples: 97396, Loss: 0.0006, Top-1 Accuracy: 95.70%, Top-3 Accuracy: 99.45%
+Epoch [7/20], phase: train, samples: 97396, Loss: 0.0005, Top-1 Accuracy: 95.93%, Top-3 Accuracy: 99.51%
+Epoch [8/20], phase: train, samples: 97396, Loss: 0.0005, Top-1 Accuracy: 96.15%, Top-3 Accuracy: 99.54%
+Epoch [9/20], phase: train, samples: 97396, Loss: 0.0005, Top-1 Accuracy: 96.33%, Top-3 Accuracy: 99.57%
+Epoch [10/20], phase: train, samples: 97396, Loss: 0.0005, Top-1 Accuracy: 96.49%, Top-3 Accuracy: 99.59%
+Epoch [11/20], phase: train, samples: 97396, Loss: 0.0004, Top-1 Accuracy: 96.55%, Top-3 Accuracy: 99.63%
+Epoch [12/20], phase: train, samples: 97396, Loss: 0.0004, Top-1 Accuracy: 96.64%, Top-3 Accuracy: 99.62%
+Epoch [13/20], phase: train, samples: 97396, Loss: 0.0004, Top-1 Accuracy: 96.74%, Top-3 Accuracy: 99.64%
+Epoch [14/20], phase: train, samples: 97396, Loss: 0.0004, Top-1 Accuracy: 96.84%, Top-3 Accuracy: 99.66%
+Epoch [15/20], phase: train, samples: 97396, Loss: 0.0004, Top-1 Accuracy: 96.92%, Top-3 Accuracy: 99.65%
+Epoch [16/20], phase: train, samples: 97396, Loss: 0.0004, Top-1 Accuracy: 96.96%, Top-3 Accuracy: 99.66%
+Epoch [17/20], phase: train, samples: 97396, Loss: 0.0004, Top-1 Accuracy: 97.04%, Top-3 Accuracy: 99.70%
+Epoch [18/20], phase: train, samples: 97396, Loss: 0.0004, Top-1 Accuracy: 97.14%, Top-3 Accuracy: 99.70%
+Epoch [19/20], phase: train, samples: 97396, Loss: 0.0004, Top-1 Accuracy: 97.18%, Top-3 Accuracy: 99.72%
+Epoch [20/20], phase: train, samples: 97396, Loss: 0.0004, Top-1 Accuracy: 97.20%, Top-3 Accuracy: 99.73%
+Elapsed time: 1863.2068769931793 seconds
+weight saved as: R6_btnk_ch8(hw2).pt
+[2024-03-19 23:25:37] train acc
