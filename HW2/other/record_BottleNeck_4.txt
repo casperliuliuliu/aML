@@ -540,3 +540,4 @@ Epoch [12/20], phase: train, samples: 58437, Loss: 0.0064, Top-1 Accuracy: 35.12
 Epoch [12/20], phase: val, samples: 19479, Loss: 0.0064, Top-1 Accuracy: 35.29%, Top-3 Accuracy: 75.99%
 Epoch [13/20], phase: train, samples: 58437, Loss: 0.0064, Top-1 Accuracy: 35.58%, Top-3 Accuracy: 76.72%
 Epoch [13/20], phase: val, samples: 19479, Loss: 0.0064, Top-1 Accuracy: 35.98%, Top-3 Accuracy: 76.29%
+[2024-03-23 09:18:30] optimize small resnet

@@ -1,0 +1,187 @@
+[2024-03-23 09:44:12] optimize small resnet
+[2024-03-23 09:44:44] Focus on the 3rd problem
+model total parameters: 11,689,512
+model total parameters: 11,689,512
+model total parameters: 11,689,512
+learning rate=0.005
+model total parameters: 25,557,032
+learning rate=0.005
+model total parameters: 44,549,160
+learning rate=0.005
+model total parameters: 60,192,808
+learning rate=0.005
+model total parameters: 28,351,570
+learning rate=0.005
+model total parameters: 49,737,442
+learning rate=0.005
+model total parameters: 87,930,848
+learning rate=0.005
+model total parameters: 633,470,440
+learning rate=0.005
+Phase: val, samples: 487, Loss: 0.0010, Top-1 Accuracy: 92.61%, Top-3 Accuracy: 99.59%
+Elapsed time: 1.379624843597412 seconds
+Phase: val, samples: 487, Loss: 0.0045, Top-1 Accuracy: 67.35%, Top-3 Accuracy: 91.38%
+Elapsed time: 0.4198589324951172 seconds
+Phase: val, samples: 487, Loss: 0.0006, Top-1 Accuracy: 95.89%, Top-3 Accuracy: 99.59%
+Elapsed time: 0.4098701477050781 seconds
+Phase: val, samples: 487, Loss: 0.0010, Top-1 Accuracy: 94.66%, Top-3 Accuracy: 98.77%
+Elapsed time: 0.529822587966919 seconds
+Phase: val, samples: 487, Loss: 0.0004, Top-1 Accuracy: 97.13%, Top-3 Accuracy: 98.77%
+Elapsed time: 0.5398378372192383 seconds
+Phase: val, samples: 487, Loss: 0.0006, Top-1 Accuracy: 95.89%, Top-3 Accuracy: 99.59%
+Elapsed time: 0.5802631378173828 seconds
+Phase: val, samples: 487, Loss: 0.0006, Top-1 Accuracy: 95.89%, Top-3 Accuracy: 99.59%
+tensor([[42,  0,  0,  0,  0,  0,  0,  0,  0,  0],
+        [ 1, 56,  0,  0,  0,  0,  0,  0,  0,  0],
+        [ 0,  0, 40,  0,  0,  0,  0,  0,  2,  1],
+        [ 1,  0,  0, 36,  0,  0,  0,  1,  0,  0],
+        [ 0,  0,  0,  0, 51,  0,  0,  0,  0,  1],
+        [ 0,  1,  0,  0,  0, 51,  0,  0,  2,  0],
+        [ 0,  0,  0,  0,  0,  0, 48,  0,  0,  0],
+        [ 1,  0,  0,  0,  0,  0,  0, 56,  0,  2],
+        [ 6,  0,  0,  0,  0,  0,  0,  0, 47,  1],
+        [ 0,  0,  0,  0,  0,  0,  0,  0,  0, 40]])
+Elapsed time: 0.3898792266845703 seconds
+Phase: val, samples: 487, Loss: 0.0006, Top-1 Accuracy: 95.89%, Top-3 Accuracy: 99.59%
+Phase: val, samples: 487, Loss: 0.0006, Top-1 Accuracy: 95.89%, Top-3 Accuracy: 99.59%
+class 0:[42  0  0  0  0  0  0  0  0  0]
+class 1:[ 1 56  0  0  0  0  0  0  0  0]
+class 2:[ 0  0 40  0  0  0  0  0  2  1]
+class 3:[ 1  0  0 36  0  0  0  1  0  0]
+class 4:[ 0  0  0  0 51  0  0  0  0  1]
+class 5:[ 0  1  0  0  0 51  0  0  2  0]
+class 6:[ 0  0  0  0  0  0 48  0  0  0]
+class 7:[ 1  0  0  0  0  0  0 56  0  2]
+class 8:[ 6  0  0  0  0  0  0  0 47  1]
+class 9:[ 0  0  0  0  0  0  0  0  0 40]
+Elapsed time: 0.4910614490509033 seconds
+Phase: val, samples: 487, Loss: 0.0004, Top-1 Accuracy: 97.13%, Top-3 Accuracy: 98.77%
+class 0:[42  0  0  0  0  0  0  0  0  0]
+class 1:[ 1 56  0  0  0  0  0  0  0  0]
+class 2:[ 0  0 43  0  0  0  0  0  0  0]
+class 3:[ 0  0  0 38  0  0  0  0  0  0]
+class 4:[ 0  0  0  0 52  0  0  0  0  0]
+class 5:[ 0  0  0  1  0 53  0  0  0  0]
+class 6:[ 0  0  0  0  0  0 48  0  0  0]
+class 7:[ 0  0  0  1  0  0  0 58  0  0]
+class 8:[ 8  0  1  1  0  0  0  0 44  0]
+class 9:[ 0  0  0  0  0  0  0  1  0 39]
+Elapsed time: 0.5898020267486572 seconds
+Phase: val, samples: 487, Loss: 0.0006, Top-1 Accuracy: 95.89%, Top-3 Accuracy: 99.59%
+class 0:[42  0  0  0  0  0  0  0  0  0]
+class 1:[ 1 56  0  0  0  0  0  0  0  0]
+class 2:[ 0  0 40  0  0  0  0  0  2  1]
+class 3:[ 1  0  0 36  0  0  0  1  0  0]
+class 4:[ 0  0  0  0 51  0  0  0  0  1]
+class 5:[ 0  1  0  0  0 51  0  0  2  0]
+class 6:[ 0  0  0  0  0  0 48  0  0  0]
+class 7:[ 1  0  0  0  0  0  0 56  0  2]
+class 8:[ 6  0  0  0  0  0  0  0 47  1]
+class 9:[ 0  0  0  0  0  0  0  0  0 40]
+Elapsed time: 0.4988720417022705 seconds
+model total parameters: 11,689,512
+learning rate=0.005
+Epoch [1/1], phase: train, samples: 973, Loss: 0.0384, Top-1 Accuracy: 1.54%, Top-3 Accuracy: 3.60%
+Elapsed time: 4.586748123168945 seconds
+model total parameters: 25,557,032
+learning rate=0.005
+Epoch [1/1], phase: train, samples: 973, Loss: 0.0358, Top-1 Accuracy: 1.75%, Top-3 Accuracy: 3.19%
+Elapsed time: 1.289567232131958 seconds
+model total parameters: 44,549,160
+learning rate=0.005
+Epoch [1/1], phase: train, samples: 973, Loss: 0.0354, Top-1 Accuracy: 0.92%, Top-3 Accuracy: 2.36%
+Elapsed time: 1.498319149017334 seconds
+model total parameters: 60,192,808
+learning rate=0.005
+Epoch [1/1], phase: train, samples: 973, Loss: 0.0347, Top-1 Accuracy: 1.13%, Top-3 Accuracy: 2.36%
+Elapsed time: 1.839383602142334 seconds
+model total parameters: 28,351,570
+learning rate=0.005
+Epoch [1/1], phase: train, samples: 973, Loss: 0.0276, Top-1 Accuracy: 4.83%, Top-3 Accuracy: 15.72%
+Elapsed time: 2.169274091720581 seconds
+model total parameters: 49,737,442
+learning rate=0.005
+Epoch [1/1], phase: train, samples: 973, Loss: 0.0271, Top-1 Accuracy: 3.19%, Top-3 Accuracy: 11.41%
+Elapsed time: 3.6929821968078613 seconds
+model total parameters: 87,930,848
+learning rate=0.005
+Epoch [1/1], phase: train, samples: 973, Loss: 0.0276, Top-1 Accuracy: 3.08%, Top-3 Accuracy: 8.02%
+Elapsed time: 21.63474416732788 seconds
+model total parameters: 633,470,440
+learning rate=0.005
+model total parameters: 11,689,512
+learning rate=0.005
+Epoch [1/1], phase: train, samples: 973, Loss: 0.0384, Top-1 Accuracy: 1.44%, Top-3 Accuracy: 3.49%
+Elapsed time: 1.159606695175171 seconds
+model total parameters: 25,557,032
+learning rate=0.005
+Epoch [1/1], phase: train, samples: 973, Loss: 0.0358, Top-1 Accuracy: 1.75%, Top-3 Accuracy: 3.19%
+Elapsed time: 4.256054878234863 seconds
+model total parameters: 44,549,160
+learning rate=0.005
+Epoch [1/1], phase: train, samples: 973, Loss: 0.0354, Top-1 Accuracy: 0.92%, Top-3 Accuracy: 2.36%
+Elapsed time: 5.259695768356323 seconds
+model total parameters: 60,192,808
+learning rate=0.005
+Epoch [1/1], phase: train, samples: 973, Loss: 0.0347, Top-1 Accuracy: 1.13%, Top-3 Accuracy: 2.36%
+Elapsed time: 9.087498188018799 seconds
+model total parameters: 28,288,354
+learning rate=0.005
+Epoch [1/1], phase: train, samples: 973, Loss: 0.0287, Top-1 Accuracy: 2.26%, Top-3 Accuracy: 7.09%
+Elapsed time: 6.8008668422698975 seconds
+model total parameters: 11,689,512
+learning rate=0.005
+Epoch [1/1], phase: train, samples: 973, Loss: 0.0384, Top-1 Accuracy: 1.44%, Top-3 Accuracy: 3.60%
+Elapsed time: 1.108543872833252 seconds
+model total parameters: 25,557,032
+learning rate=0.005
+Epoch [1/1], phase: train, samples: 973, Loss: 0.0358, Top-1 Accuracy: 1.75%, Top-3 Accuracy: 3.19%
+Elapsed time: 4.028663158416748 seconds
+model total parameters: 44,549,160
+learning rate=0.005
+Epoch [1/1], phase: train, samples: 973, Loss: 0.0354, Top-1 Accuracy: 0.92%, Top-3 Accuracy: 2.36%
+Elapsed time: 5.879777669906616 seconds
+model total parameters: 60,192,808
+learning rate=0.005
+Epoch [1/1], phase: train, samples: 973, Loss: 0.0347, Top-1 Accuracy: 1.13%, Top-3 Accuracy: 2.36%
+Elapsed time: 9.833388566970825 seconds
+model total parameters: 28,288,354
+learning rate=0.005
+Epoch [1/1], phase: train, samples: 973, Loss: 0.0287, Top-1 Accuracy: 1.95%, Top-3 Accuracy: 7.30%
+Elapsed time: 6.419474124908447 seconds
+model total parameters: 49,606,258
+learning rate=0.005
+Epoch [1/1], phase: train, samples: 973, Loss: 0.0265, Top-1 Accuracy: 4.21%, Top-3 Accuracy: 11.10%
+Elapsed time: 21.596593141555786 seconds
+model total parameters: 87,768,224
+learning rate=0.005
+Epoch [1/1], phase: train, samples: 973, Loss: 0.0268, Top-1 Accuracy: 3.29%, Top-3 Accuracy: 9.56%
+Elapsed time: 47.969857692718506 seconds
+model total parameters: 11,689,512
+learning rate=0.005
+Epoch [1/1], phase: train, samples: 973, Loss: 0.0384, Top-1 Accuracy: 1.34%, Top-3 Accuracy: 3.60%
+Elapsed time: 1.1196253299713135 seconds
+model total parameters: 25,557,032
+learning rate=0.005
+Epoch [1/1], phase: train, samples: 973, Loss: 0.0295, Top-1 Accuracy: 0.00%, Top-3 Accuracy: 0.00%
+Elapsed time: 3.528817892074585 seconds
+model total parameters: 44,549,160
+learning rate=0.005
+Epoch [1/1], phase: train, samples: 973, Loss: 0.0296, Top-1 Accuracy: 0.82%, Top-3 Accuracy: 1.44%
+Elapsed time: 14.052119255065918 seconds
+model total parameters: 60,192,808
+learning rate=0.005
+Epoch [1/1], phase: train, samples: 973, Loss: 0.0299, Top-1 Accuracy: 0.00%, Top-3 Accuracy: 0.10%
+Elapsed time: 18.755255222320557 seconds
+model total parameters: 28,288,354
+learning rate=0.005
+Epoch [1/1], phase: train, samples: 973, Loss: 0.0286, Top-1 Accuracy: 2.57%, Top-3 Accuracy: 7.50%
+Elapsed time: 12.918222904205322 seconds
+model total parameters: 49,606,258
+learning rate=0.005
+Epoch [1/1], phase: train, samples: 973, Loss: 0.0265, Top-1 Accuracy: 4.73%, Top-3 Accuracy: 10.07%
+Elapsed time: 27.675967931747437 seconds
+model total parameters: 87,768,224
+learning rate=0.005
+Epoch [1/1], phase: train, samples: 973, Loss: 0.0269, Top-1 Accuracy: 4.01%, Top-3 Accuracy: 8.63%
+Elapsed time: 47.90890598297119 seconds
