@@ -1,0 +1,10 @@
+[2024-03-24 12:40:11] OFFICIAL START, Focus on the 1st problem
+[2024-03-24 12:40:20] OFFICIAL START, Focus on the 2nd problem
+[2024-03-24 12:51:56] Training model: OneParaModel
+Total parameters: 1
+[2024-03-24 12:52:19] Training model: OneParaModel
+Total parameters: 1
+[2024-03-24 12:53:10] Training model: OneParaModel
+Total parameters: 1
+[2024-03-24 12:54:57] Training model: OneParaModel
+Total parameters: 1

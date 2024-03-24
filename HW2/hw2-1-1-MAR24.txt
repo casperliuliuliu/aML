@@ -1,0 +1,13 @@
+[2024-03-24 17:12:31] OFFICIAL START, Focus on the 3rd problem
+Phase: val, samples: 97396, Loss: 0.0000, Top-1 Accuracy: 99.96%, Top-3 Accuracy: 100.00%
+class 0:[10785     0     0     0     0     0     0     0     0     0]
+class 1:[    0 10826     0     0     3     0     0     6     0     0]
+class 2:[   0    0 9529    0    0    0    0    2    0    0]
+class 3:[   0    0    1 9809    0    1    0    0    1    0]
+class 4:[   0    0    0    0 9312    0    0    1    0    1]
+class 5:[   0    0    0    2    0 8683    2    0    0    0]
+class 6:[   1    2    0    1    0    1 9469    0    0    0]
+class 7:[    0     0     0     0     0     0     0 10007     0     0]
+class 8:[   0    0    1    0    0    0    0    0 9425    1]
+class 9:[   0    0    0    0    7    0    0    1    0 9516]
+Elapsed time: 321.2854561805725 seconds

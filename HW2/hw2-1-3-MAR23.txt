@@ -185,3 +185,458 @@ model total parameters: 87,768,224
 learning rate=0.005
 Epoch [1/1], phase: train, samples: 973, Loss: 0.0269, Top-1 Accuracy: 4.01%, Top-3 Accuracy: 8.63%
 Elapsed time: 47.90890598297119 seconds
+[2024-03-23 10:30:10] OFFICIAL START, Focus on the 3rd problem
+[2024-03-23 10:31:31] Training model: resnet18
+Total parameters: 11,689,512
+Learning rate=0.005
+Epoch [1/1], phase: train, samples: 973, Loss: 0.0384, Top-1 Accuracy: 1.23%, Top-3 Accuracy: 3.49%, LR: 0.005
+Elapsed time: 1.0512919425964355 seconds
+weight saved as: resnet18.pt
+[2024-03-23 10:31:33] Training model: resnet50
+Total parameters: 25,557,032
+Learning rate=0.005
+[2024-03-23 10:32:00] OFFICIAL START, Focus on the 3rd problem
+[2024-03-23 10:32:12] Training model: resnet18
+Total parameters: 11,689,512
+Learning rate=0.005
+[2024-03-23 10:34:22] OFFICIAL START, Focus on the 3rd problem
+[2024-03-23 10:34:22] Training model: resnet18
+Total parameters: 11,689,512
+Learning rate=0.005
+Epoch [1/25], phase: train, samples: 77916, Loss: 0.0048, Top-1 Accuracy: 68.49%, Top-3 Accuracy: 88.50%, LR: 0.005
+Epoch [2/25], phase: train, samples: 77916, Loss: 0.0041, Top-1 Accuracy: 70.46%, Top-3 Accuracy: 90.52%, LR: 0.005
+[2024-03-23 10:41:18] Training model: resnet18
+Total parameters: 11,689,512
+Learning rate=0.005
+Epoch [1/25], phase: train, samples: 77916, Loss: 0.0048, Top-1 Accuracy: 67.98%, Top-3 Accuracy: 88.33%, LR: 0.005
+Epoch [1/25], phase: val, samples: 9740, Loss: 0.0041, Top-1 Accuracy: 70.44%, Top-3 Accuracy: 90.74%, LR: 0.005
+Epoch [2/25], phase: train, samples: 77916, Loss: 0.0041, Top-1 Accuracy: 69.94%, Top-3 Accuracy: 90.33%, LR: 0.005
+Epoch [2/25], phase: val, samples: 9740, Loss: 0.0041, Top-1 Accuracy: 70.44%, Top-3 Accuracy: 90.74%, LR: 0.005
+Epoch [3/25], phase: train, samples: 77916, Loss: 0.0041, Top-1 Accuracy: 69.94%, Top-3 Accuracy: 90.33%, LR: 0.005
+Epoch [3/25], phase: val, samples: 9740, Loss: 0.0041, Top-1 Accuracy: 70.44%, Top-3 Accuracy: 90.74%, LR: 0.005
+Epoch [4/25], phase: train, samples: 77916, Loss: 0.0041, Top-1 Accuracy: 69.94%, Top-3 Accuracy: 90.33%, LR: 0.005
+Epoch [4/25], phase: val, samples: 9740, Loss: 0.0041, Top-1 Accuracy: 70.44%, Top-3 Accuracy: 90.74%, LR: 0.005
+Epoch [5/25], phase: train, samples: 77916, Loss: 0.0041, Top-1 Accuracy: 69.94%, Top-3 Accuracy: 90.33%, LR: 0.005
+Epoch [5/25], phase: val, samples: 9740, Loss: 0.0041, Top-1 Accuracy: 70.44%, Top-3 Accuracy: 90.74%, LR: 0.005
+Epoch [6/25], phase: train, samples: 77916, Loss: 0.0041, Top-1 Accuracy: 69.94%, Top-3 Accuracy: 90.33%, LR: 0.005
+Epoch [6/25], phase: val, samples: 9740, Loss: 0.0041, Top-1 Accuracy: 70.44%, Top-3 Accuracy: 90.74%, LR: 0.005
+Epoch [7/25], phase: train, samples: 77916, Loss: 0.0041, Top-1 Accuracy: 69.94%, Top-3 Accuracy: 90.33%, LR: 0.005
+Epoch [7/25], phase: val, samples: 9740, Loss: 0.0041, Top-1 Accuracy: 70.44%, Top-3 Accuracy: 90.74%, LR: 0.005
+Epoch [8/25], phase: train, samples: 77916, Loss: 0.0041, Top-1 Accuracy: 69.94%, Top-3 Accuracy: 90.33%, LR: 0.005
+Epoch [8/25], phase: val, samples: 9740, Loss: 0.0041, Top-1 Accuracy: 70.44%, Top-3 Accuracy: 90.74%, LR: 0.005
+Epoch [9/25], phase: train, samples: 77916, Loss: 0.0041, Top-1 Accuracy: 69.94%, Top-3 Accuracy: 90.33%, LR: 0.005
+Epoch [9/25], phase: val, samples: 9740, Loss: 0.0041, Top-1 Accuracy: 70.44%, Top-3 Accuracy: 90.74%, LR: 0.005
+Epoch [10/25], phase: train, samples: 77916, Loss: 0.0041, Top-1 Accuracy: 69.94%, Top-3 Accuracy: 90.33%, LR: 0.005
+Epoch [10/25], phase: val, samples: 9740, Loss: 0.0041, Top-1 Accuracy: 70.44%, Top-3 Accuracy: 90.74%, LR: 0.005
+Epoch [11/25], phase: train, samples: 77916, Loss: 0.0041, Top-1 Accuracy: 69.94%, Top-3 Accuracy: 90.33%, LR: 0.005
+Epoch [11/25], phase: val, samples: 9740, Loss: 0.0041, Top-1 Accuracy: 70.44%, Top-3 Accuracy: 90.74%, LR: 0.005
+Epoch [12/25], phase: train, samples: 77916, Loss: 0.0041, Top-1 Accuracy: 69.94%, Top-3 Accuracy: 90.33%, LR: 0.005
+Epoch [12/25], phase: val, samples: 9740, Loss: 0.0041, Top-1 Accuracy: 70.44%, Top-3 Accuracy: 90.74%, LR: 0.005
+Epoch [13/25], phase: train, samples: 77916, Loss: 0.0041, Top-1 Accuracy: 69.94%, Top-3 Accuracy: 90.33%, LR: 0.005
+[2024-03-23 10:53:54] Training model: resnet18
+Total parameters: 11,689,512
+Learning rate=0.005
+[2024-03-23 10:54:36] OFFICIAL START, Focus on the 3rd problem
+[2024-03-23 10:54:36] Training model: resnet18
+Total parameters: 11,689,512
+Learning rate=0.005
+[2024-03-23 10:54:48] Training model: resnet18
+Total parameters: 11,689,512
+Learning rate=0.005
+Epoch [1/25], phase: train, samples: 9739, Loss: 0.0134, Top-1 Accuracy: 30.09%, Top-3 Accuracy: 55.24%, LR: 0.005
+Epoch [1/25], phase: val, samples: 43828, Loss: 0.0117, Top-1 Accuracy: 31.69%, Top-3 Accuracy: 57.55%, LR: 0.005
+Epoch [2/25], phase: train, samples: 9739, Loss: 0.0120, Top-1 Accuracy: 32.15%, Top-3 Accuracy: 57.93%, LR: 0.005
+[2024-03-23 10:57:15] Training model: resnet18
+Total parameters: 11,689,512
+Learning rate=0.005
+[2024-03-23 10:57:37] Training model: resnet18
+Total parameters: 11,689,512
+Learning rate=0.005
+Epoch [1/25], phase: train, samples: 9739, Loss: 0.0134, Top-1 Accuracy: 30.00%, Top-3 Accuracy: 55.19%, LR: [5.4975581388800125e-31]
+Epoch [2/25], phase: train, samples: 9739, Loss: 0.0120, Top-1 Accuracy: 32.08%, Top-3 Accuracy: 57.87%, LR: [3.0223145490365866e-58]
+Epoch [3/25], phase: train, samples: 9739, Loss: 0.0120, Top-1 Accuracy: 32.08%, Top-3 Accuracy: 57.87%, LR: [1.6615349947311565e-85]
+[2024-03-23 10:58:14] Training model: resnet18
+Total parameters: 11,689,512
+Learning rate=0.005
+Epoch [1/25], phase: train, samples: 9739, Loss: 0.0105, Top-1 Accuracy: 26.82%, Top-3 Accuracy: 52.56%, LR: [2.621440000000003e-16]
+Epoch [2/25], phase: train, samples: 9739, Loss: 0.0086, Top-1 Accuracy: 29.29%, Top-3 Accuracy: 55.84%, LR: [5.4975581388800125e-31]
+Epoch [3/25], phase: train, samples: 9739, Loss: 0.0086, Top-1 Accuracy: 29.29%, Top-3 Accuracy: 55.84%, LR: [1.4411518807585637e-43]
+Epoch [4/25], phase: train, samples: 9739, Loss: 0.0086, Top-1 Accuracy: 29.29%, Top-3 Accuracy: 55.84%, LR: [3.0223145490365866e-58]
+Epoch [5/25], phase: train, samples: 9739, Loss: 0.0086, Top-1 Accuracy: 29.29%, Top-3 Accuracy: 55.84%, LR: [7.92281625142648e-71]
+[2024-03-23 10:59:01] Training model: resnet18
+Total parameters: 11,689,512
+Learning rate=0.005
+Epoch [1/25], phase: train, samples: 9739, Loss: 0.0105, Top-1 Accuracy: 21.29%, Top-3 Accuracy: 49.85%
+[2024-03-23 11:00:16] OFFICIAL START, Focus on the 3rd problem
+[2024-03-23 11:00:16] Training model: resnet18
+Total parameters: 11,689,512
+Learning rate=0.005
+Epoch [1/20], phase: train, samples: 77916, Loss: 0.0033, Top-1 Accuracy: 72.93%, Top-3 Accuracy: 84.54%
+Epoch [1/20], phase: val, samples: 9740, Loss: 0.0009, Top-1 Accuracy: 93.81%, Top-3 Accuracy: 99.31%
+Epoch [2/20], phase: train, samples: 77916, Loss: 0.0004, Top-1 Accuracy: 96.92%, Top-3 Accuracy: 99.70%
+Epoch [2/20], phase: val, samples: 9740, Loss: 0.0003, Top-1 Accuracy: 97.80%, Top-3 Accuracy: 99.76%
+Epoch [3/20], phase: train, samples: 77916, Loss: 0.0003, Top-1 Accuracy: 97.92%, Top-3 Accuracy: 99.84%
+Epoch [3/20], phase: val, samples: 9740, Loss: 0.0012, Top-1 Accuracy: 91.33%, Top-3 Accuracy: 98.63%
+Epoch [4/20], phase: train, samples: 77916, Loss: 0.0002, Top-1 Accuracy: 98.42%, Top-3 Accuracy: 99.90%
+Epoch [4/20], phase: val, samples: 9740, Loss: 0.0007, Top-1 Accuracy: 95.27%, Top-3 Accuracy: 99.59%
+Epoch [5/20], phase: train, samples: 77916, Loss: 0.0002, Top-1 Accuracy: 98.65%, Top-3 Accuracy: 99.91%
+Epoch [5/20], phase: val, samples: 9740, Loss: 0.0004, Top-1 Accuracy: 96.78%, Top-3 Accuracy: 99.69%
+Epoch [6/20], phase: train, samples: 77916, Loss: 0.0002, Top-1 Accuracy: 98.77%, Top-3 Accuracy: 99.94%
+Epoch [6/20], phase: val, samples: 9740, Loss: 0.0002, Top-1 Accuracy: 98.32%, Top-3 Accuracy: 99.85%
+Epoch [7/20], phase: train, samples: 77916, Loss: 0.0002, Top-1 Accuracy: 98.82%, Top-3 Accuracy: 99.93%
+Epoch [7/20], phase: val, samples: 9740, Loss: 0.0005, Top-1 Accuracy: 96.53%, Top-3 Accuracy: 99.76%
+Epoch [8/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.09%, Top-3 Accuracy: 99.96%
+Epoch [8/20], phase: val, samples: 9740, Loss: 0.0002, Top-1 Accuracy: 98.42%, Top-3 Accuracy: 99.84%
+Epoch [9/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.06%, Top-3 Accuracy: 99.96%
+Epoch [9/20], phase: val, samples: 9740, Loss: 0.0009, Top-1 Accuracy: 93.51%, Top-3 Accuracy: 99.20%
+Epoch [10/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.17%, Top-3 Accuracy: 99.97%
+Epoch [10/20], phase: val, samples: 9740, Loss: 0.0004, Top-1 Accuracy: 97.61%, Top-3 Accuracy: 99.70%
+Epoch [11/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.23%, Top-3 Accuracy: 99.97%
+Epoch [11/20], phase: val, samples: 9740, Loss: 0.0005, Top-1 Accuracy: 97.14%, Top-3 Accuracy: 99.66%
+Epoch [12/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.22%, Top-3 Accuracy: 99.97%
+Epoch [12/20], phase: val, samples: 9740, Loss: 0.0002, Top-1 Accuracy: 98.47%, Top-3 Accuracy: 99.84%
+Epoch [13/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.37%, Top-3 Accuracy: 99.97%
+Epoch [13/20], phase: val, samples: 9740, Loss: 0.0003, Top-1 Accuracy: 98.32%, Top-3 Accuracy: 99.80%
+Epoch [14/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.51%, Top-3 Accuracy: 99.99%
+Epoch [14/20], phase: val, samples: 9740, Loss: 0.0003, Top-1 Accuracy: 98.25%, Top-3 Accuracy: 99.83%
+Epoch [15/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.41%, Top-3 Accuracy: 99.97%
+Epoch [15/20], phase: val, samples: 9740, Loss: 0.0003, Top-1 Accuracy: 98.35%, Top-3 Accuracy: 99.78%
+Epoch [16/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.42%, Top-3 Accuracy: 99.98%
+Epoch [16/20], phase: val, samples: 9740, Loss: 0.0003, Top-1 Accuracy: 97.96%, Top-3 Accuracy: 99.78%
+Epoch [17/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.43%, Top-3 Accuracy: 99.98%
+Epoch [17/20], phase: val, samples: 9740, Loss: 0.0003, Top-1 Accuracy: 97.83%, Top-3 Accuracy: 99.80%
+Epoch [18/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.56%, Top-3 Accuracy: 99.99%
+Epoch [18/20], phase: val, samples: 9740, Loss: 0.0002, Top-1 Accuracy: 98.47%, Top-3 Accuracy: 99.80%
+Epoch [19/20], phase: train, samples: 77916, Loss: 0.0000, Top-1 Accuracy: 99.61%, Top-3 Accuracy: 99.99%
+Epoch [19/20], phase: val, samples: 9740, Loss: 0.0002, Top-1 Accuracy: 98.55%, Top-3 Accuracy: 99.77%
+Epoch [20/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.54%, Top-3 Accuracy: 99.98%
+Epoch [20/20], phase: val, samples: 9740, Loss: 0.0003, Top-1 Accuracy: 98.20%, Top-3 Accuracy: 99.87%
+Elapsed time: 999.4064555168152 seconds
+weight saved as: resnet18.pt
+[2024-03-23 11:16:56] Training model: resnet50
+Total parameters: 25,557,032
+Learning rate=0.005
+Epoch [1/20], phase: train, samples: 77916, Loss: 0.0011, Top-1 Accuracy: 91.95%, Top-3 Accuracy: 97.44%
+Epoch [1/20], phase: val, samples: 9740, Loss: 0.0011, Top-1 Accuracy: 91.46%, Top-3 Accuracy: 99.03%
+Epoch [2/20], phase: train, samples: 77916, Loss: 0.0003, Top-1 Accuracy: 98.03%, Top-3 Accuracy: 99.84%
+Epoch [2/20], phase: val, samples: 9740, Loss: 0.0004, Top-1 Accuracy: 96.43%, Top-3 Accuracy: 99.68%
+Epoch [3/20], phase: train, samples: 77916, Loss: 0.0002, Top-1 Accuracy: 98.55%, Top-3 Accuracy: 99.89%
+Epoch [3/20], phase: val, samples: 9740, Loss: 0.0007, Top-1 Accuracy: 95.11%, Top-3 Accuracy: 99.29%
+Epoch [4/20], phase: train, samples: 77916, Loss: 0.0002, Top-1 Accuracy: 98.68%, Top-3 Accuracy: 99.92%
+Epoch [4/20], phase: val, samples: 9740, Loss: 0.0005, Top-1 Accuracy: 96.70%, Top-3 Accuracy: 99.57%
+Epoch [5/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 98.92%, Top-3 Accuracy: 99.94%
+Epoch [5/20], phase: val, samples: 9740, Loss: 0.0003, Top-1 Accuracy: 98.15%, Top-3 Accuracy: 99.77%
+Epoch [6/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.10%, Top-3 Accuracy: 99.95%
+Epoch [6/20], phase: val, samples: 9740, Loss: 0.0005, Top-1 Accuracy: 96.02%, Top-3 Accuracy: 99.59%
+Epoch [7/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.06%, Top-3 Accuracy: 99.96%
+Epoch [7/20], phase: val, samples: 9740, Loss: 0.0003, Top-1 Accuracy: 97.42%, Top-3 Accuracy: 99.62%
+Epoch [8/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.23%, Top-3 Accuracy: 99.97%
+Epoch [8/20], phase: val, samples: 9740, Loss: 0.0003, Top-1 Accuracy: 98.08%, Top-3 Accuracy: 99.78%
+Epoch [9/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.30%, Top-3 Accuracy: 99.97%
+Epoch [9/20], phase: val, samples: 9740, Loss: 0.0003, Top-1 Accuracy: 98.23%, Top-3 Accuracy: 99.84%
+Epoch [10/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.25%, Top-3 Accuracy: 99.98%
+Epoch [10/20], phase: val, samples: 9740, Loss: 0.0001, Top-1 Accuracy: 98.94%, Top-3 Accuracy: 99.87%
+Epoch [11/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.36%, Top-3 Accuracy: 99.98%
+Epoch [11/20], phase: val, samples: 9740, Loss: 0.0003, Top-1 Accuracy: 98.23%, Top-3 Accuracy: 99.72%
+Epoch [12/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.41%, Top-3 Accuracy: 99.98%
+Epoch [12/20], phase: val, samples: 9740, Loss: 0.0002, Top-1 Accuracy: 98.57%, Top-3 Accuracy: 99.86%
+Epoch [13/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.49%, Top-3 Accuracy: 99.99%
+Epoch [13/20], phase: val, samples: 9740, Loss: 0.0004, Top-1 Accuracy: 97.77%, Top-3 Accuracy: 99.72%
+Epoch [14/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.45%, Top-3 Accuracy: 99.98%
+Epoch [14/20], phase: val, samples: 9740, Loss: 0.0003, Top-1 Accuracy: 97.92%, Top-3 Accuracy: 99.72%
+Epoch [15/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.45%, Top-3 Accuracy: 99.99%
+Epoch [15/20], phase: val, samples: 9740, Loss: 0.0002, Top-1 Accuracy: 98.68%, Top-3 Accuracy: 99.79%
+Epoch [16/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.47%, Top-3 Accuracy: 100.00%
+Epoch [16/20], phase: val, samples: 9740, Loss: 0.0003, Top-1 Accuracy: 98.41%, Top-3 Accuracy: 99.80%
+Epoch [17/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.49%, Top-3 Accuracy: 99.98%
+Epoch [17/20], phase: val, samples: 9740, Loss: 0.0003, Top-1 Accuracy: 98.32%, Top-3 Accuracy: 99.80%
+Epoch [18/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.57%, Top-3 Accuracy: 99.99%
+Epoch [18/20], phase: val, samples: 9740, Loss: 0.0002, Top-1 Accuracy: 98.88%, Top-3 Accuracy: 99.87%
+Epoch [19/20], phase: train, samples: 77916, Loss: 0.0000, Top-1 Accuracy: 99.60%, Top-3 Accuracy: 99.99%
+Epoch [19/20], phase: val, samples: 9740, Loss: 0.0003, Top-1 Accuracy: 98.32%, Top-3 Accuracy: 99.90%
+Epoch [20/20], phase: train, samples: 77916, Loss: 0.0000, Top-1 Accuracy: 99.59%, Top-3 Accuracy: 99.99%
+Epoch [20/20], phase: val, samples: 9740, Loss: 0.0002, Top-1 Accuracy: 98.48%, Top-3 Accuracy: 99.84%
+Elapsed time: 1666.5925724506378 seconds
+weight saved as: resnet50.pt
+[2024-03-23 11:44:43] Training model: resnet101
+Total parameters: 44,549,160
+Learning rate=0.005
+Epoch [1/20], phase: train, samples: 77916, Loss: 0.0014, Top-1 Accuracy: 89.72%, Top-3 Accuracy: 96.32%
+Epoch [1/20], phase: val, samples: 9740, Loss: 0.0006, Top-1 Accuracy: 95.44%, Top-3 Accuracy: 99.59%
+Epoch [2/20], phase: train, samples: 77916, Loss: 0.0003, Top-1 Accuracy: 97.92%, Top-3 Accuracy: 99.80%
+Epoch [2/20], phase: val, samples: 9740, Loss: 0.0005, Top-1 Accuracy: 96.26%, Top-3 Accuracy: 99.54%
+Epoch [3/20], phase: train, samples: 77916, Loss: 0.0002, Top-1 Accuracy: 98.45%, Top-3 Accuracy: 99.90%
+Epoch [3/20], phase: val, samples: 9740, Loss: 0.0002, Top-1 Accuracy: 98.34%, Top-3 Accuracy: 99.86%
+Epoch [4/20], phase: train, samples: 77916, Loss: 0.0002, Top-1 Accuracy: 98.69%, Top-3 Accuracy: 99.93%
+Epoch [4/20], phase: val, samples: 9740, Loss: 0.0024, Top-1 Accuracy: 86.19%, Top-3 Accuracy: 99.41%
+Epoch [5/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 98.81%, Top-3 Accuracy: 99.95%
+Epoch [5/20], phase: val, samples: 9740, Loss: 0.0004, Top-1 Accuracy: 97.36%, Top-3 Accuracy: 99.69%
+Epoch [6/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 98.99%, Top-3 Accuracy: 99.95%
+Epoch [6/20], phase: val, samples: 9740, Loss: 0.0004, Top-1 Accuracy: 97.14%, Top-3 Accuracy: 99.64%
+Epoch [7/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.06%, Top-3 Accuracy: 99.96%
+Epoch [7/20], phase: val, samples: 9740, Loss: 0.0004, Top-1 Accuracy: 97.45%, Top-3 Accuracy: 99.75%
+Epoch [8/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.16%, Top-3 Accuracy: 99.95%
+Epoch [8/20], phase: val, samples: 9740, Loss: 0.0003, Top-1 Accuracy: 97.91%, Top-3 Accuracy: 99.78%
+Epoch [9/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.27%, Top-3 Accuracy: 99.98%
+Epoch [9/20], phase: val, samples: 9740, Loss: 0.0003, Top-1 Accuracy: 98.02%, Top-3 Accuracy: 99.79%
+Epoch [10/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.26%, Top-3 Accuracy: 99.97%
+Epoch [10/20], phase: val, samples: 9740, Loss: 0.0002, Top-1 Accuracy: 98.73%, Top-3 Accuracy: 99.90%
+Epoch [11/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.33%, Top-3 Accuracy: 99.98%
+Epoch [11/20], phase: val, samples: 9740, Loss: 0.0002, Top-1 Accuracy: 98.78%, Top-3 Accuracy: 99.88%
+Epoch [12/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.34%, Top-3 Accuracy: 99.97%
+Epoch [12/20], phase: val, samples: 9740, Loss: 0.0003, Top-1 Accuracy: 98.04%, Top-3 Accuracy: 99.77%
+Epoch [13/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.36%, Top-3 Accuracy: 99.98%
+Epoch [13/20], phase: val, samples: 9740, Loss: 0.0003, Top-1 Accuracy: 97.85%, Top-3 Accuracy: 99.75%
+Epoch [14/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.51%, Top-3 Accuracy: 99.99%
+Epoch [14/20], phase: val, samples: 9740, Loss: 0.0002, Top-1 Accuracy: 98.43%, Top-3 Accuracy: 99.83%
+Epoch [15/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.42%, Top-3 Accuracy: 99.99%
+Epoch [15/20], phase: val, samples: 9740, Loss: 0.0003, Top-1 Accuracy: 98.08%, Top-3 Accuracy: 99.78%
+Epoch [16/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.49%, Top-3 Accuracy: 99.99%
+Epoch [16/20], phase: val, samples: 9740, Loss: 0.0003, Top-1 Accuracy: 98.33%, Top-3 Accuracy: 99.78%
+Epoch [17/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.51%, Top-3 Accuracy: 99.99%
+Epoch [17/20], phase: val, samples: 9740, Loss: 0.0002, Top-1 Accuracy: 98.57%, Top-3 Accuracy: 99.84%
+Epoch [18/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.54%, Top-3 Accuracy: 99.99%
+Epoch [18/20], phase: val, samples: 9740, Loss: 0.0005, Top-1 Accuracy: 97.21%, Top-3 Accuracy: 99.74%
+Epoch [19/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.52%, Top-3 Accuracy: 99.99%
+Epoch [19/20], phase: val, samples: 9740, Loss: 0.0002, Top-1 Accuracy: 98.72%, Top-3 Accuracy: 99.88%
+Epoch [20/20], phase: train, samples: 77916, Loss: 0.0001, Top-1 Accuracy: 99.57%, Top-3 Accuracy: 99.99%
+Epoch [20/20], phase: val, samples: 9740, Loss: 0.0003, Top-1 Accuracy: 97.97%, Top-3 Accuracy: 99.72%
+Elapsed time: 2361.8512783050537 seconds
+weight saved as: resnet101.pt
+[2024-03-23 12:24:06] Training model: resnet152
+Total parameters: 60,192,808
+Learning rate=0.005
+Epoch [1/20], phase: train, samples: 77916, Loss: 0.0012, Top-1 Accuracy: 91.00%, Top-3 Accuracy: 96.94%
+Epoch [1/20], phase: val, samples: 9740, Loss: 0.0008, Top-1 Accuracy: 94.35%, Top-3 Accuracy: 98.79%
+Epoch [2/20], phase: train, samples: 77916, Loss: 0.0003, Top-1 Accuracy: 97.88%, Top-3 Accuracy: 99.80%
+Epoch [2/20], phase: val, samples: 9740, Loss: 0.0007, Top-1 Accuracy: 95.33%, Top-3 Accuracy: 99.12%
+[2024-03-23 12:54:22] Training model: resnet152
+Total parameters: 60,192,808
+Learning rate=0.005
+[2024-03-23 12:55:31] OFFICIAL START, Focus on the 3rd problem
+[2024-03-23 12:55:32] Training model: resnet152
+Total parameters: 60,192,808
+Learning rate=0.005
+[2024-03-23 12:56:50] OFFICIAL START, Focus on the 3rd problem
+[2024-03-23 12:57:01] Training model: resnet152
+Total parameters: 60,192,808
+Learning rate=0.005
+[2024-03-23 12:57:35] Training model: resnet152
+Total parameters: 60,192,808
+Learning rate=0.005
+[2024-03-23 12:58:01] Training model: swin_v2_b
+Total parameters: 87,768,224
+Learning rate=0.005
+[2024-03-23 12:58:18] Training model: resnet152
+Total parameters: 60,192,808
+Learning rate=0.005
+[2024-03-23 12:59:07] OFFICIAL START, Focus on the 3rd problem
+[2024-03-23 12:59:07] Training model: resnet152
+Total parameters: 60,192,808
+Learning rate=0.005
+Epoch [1/20], phase: train, samples: 77916, Loss: 0.0046, Top-1 Accuracy: 90.70%, Top-3 Accuracy: 97.44%
+Epoch [1/20], phase: val, samples: 9740, Loss: 0.0029, Top-1 Accuracy: 94.91%, Top-3 Accuracy: 99.15%
+Epoch [2/20], phase: train, samples: 77916, Loss: 0.0015, Top-1 Accuracy: 97.15%, Top-3 Accuracy: 99.68%
+Epoch [2/20], phase: val, samples: 9740, Loss: 0.0013, Top-1 Accuracy: 97.58%, Top-3 Accuracy: 99.66%
+Epoch [3/20], phase: train, samples: 77916, Loss: 0.0011, Top-1 Accuracy: 97.90%, Top-3 Accuracy: 99.82%
+Epoch [3/20], phase: val, samples: 9740, Loss: 0.0011, Top-1 Accuracy: 97.93%, Top-3 Accuracy: 99.74%
+Epoch [4/20], phase: train, samples: 77916, Loss: 0.0010, Top-1 Accuracy: 98.11%, Top-3 Accuracy: 99.85%
+Epoch [4/20], phase: val, samples: 9740, Loss: 0.0019, Top-1 Accuracy: 96.99%, Top-3 Accuracy: 99.58%
+Epoch [5/20], phase: train, samples: 77916, Loss: 0.0008, Top-1 Accuracy: 98.38%, Top-3 Accuracy: 99.88%
+Epoch [5/20], phase: val, samples: 9740, Loss: 0.0012, Top-1 Accuracy: 98.08%, Top-3 Accuracy: 99.79%
+Epoch [6/20], phase: train, samples: 77916, Loss: 0.0008, Top-1 Accuracy: 98.54%, Top-3 Accuracy: 99.90%
+Epoch [6/20], phase: val, samples: 9740, Loss: 0.0009, Top-1 Accuracy: 98.52%, Top-3 Accuracy: 99.89%
+Epoch [7/20], phase: train, samples: 77916, Loss: 0.0006, Top-1 Accuracy: 98.78%, Top-3 Accuracy: 99.94%
+Epoch [7/20], phase: val, samples: 9740, Loss: 0.0014, Top-1 Accuracy: 97.68%, Top-3 Accuracy: 99.72%
+Epoch [8/20], phase: train, samples: 77916, Loss: 0.0006, Top-1 Accuracy: 98.83%, Top-3 Accuracy: 99.93%
+Epoch [8/20], phase: val, samples: 9740, Loss: 0.0010, Top-1 Accuracy: 98.46%, Top-3 Accuracy: 99.88%
+Epoch [9/20], phase: train, samples: 77916, Loss: 0.0005, Top-1 Accuracy: 98.97%, Top-3 Accuracy: 99.96%
+Epoch [9/20], phase: val, samples: 9740, Loss: 0.0010, Top-1 Accuracy: 98.35%, Top-3 Accuracy: 99.85%
+Epoch [10/20], phase: train, samples: 77916, Loss: 0.0005, Top-1 Accuracy: 99.05%, Top-3 Accuracy: 99.97%
+Epoch [10/20], phase: val, samples: 9740, Loss: 0.0009, Top-1 Accuracy: 98.72%, Top-3 Accuracy: 99.84%
+Epoch [11/20], phase: train, samples: 77916, Loss: 0.0004, Top-1 Accuracy: 99.12%, Top-3 Accuracy: 99.96%
+Epoch [11/20], phase: val, samples: 9740, Loss: 0.0017, Top-1 Accuracy: 97.72%, Top-3 Accuracy: 99.64%
+Epoch [12/20], phase: train, samples: 77916, Loss: 0.0004, Top-1 Accuracy: 99.23%, Top-3 Accuracy: 99.98%
+Epoch [12/20], phase: val, samples: 9740, Loss: 0.0009, Top-1 Accuracy: 98.75%, Top-3 Accuracy: 99.86%
+Epoch [13/20], phase: train, samples: 77916, Loss: 0.0003, Top-1 Accuracy: 99.39%, Top-3 Accuracy: 99.98%
+Epoch [13/20], phase: val, samples: 9740, Loss: 0.0014, Top-1 Accuracy: 98.11%, Top-3 Accuracy: 99.79%
+Epoch [14/20], phase: train, samples: 77916, Loss: 0.0003, Top-1 Accuracy: 99.37%, Top-3 Accuracy: 99.99%
+Epoch [14/20], phase: val, samples: 9740, Loss: 0.0008, Top-1 Accuracy: 98.81%, Top-3 Accuracy: 99.88%
+Epoch [15/20], phase: train, samples: 77916, Loss: 0.0003, Top-1 Accuracy: 99.39%, Top-3 Accuracy: 99.98%
+Epoch [15/20], phase: val, samples: 9740, Loss: 0.0008, Top-1 Accuracy: 98.78%, Top-3 Accuracy: 99.90%
+Epoch [16/20], phase: train, samples: 77916, Loss: 0.0002, Top-1 Accuracy: 99.56%, Top-3 Accuracy: 99.98%
+Epoch [16/20], phase: val, samples: 9740, Loss: 0.0013, Top-1 Accuracy: 98.31%, Top-3 Accuracy: 99.78%
+Epoch [17/20], phase: train, samples: 77916, Loss: 0.0002, Top-1 Accuracy: 99.52%, Top-3 Accuracy: 99.99%
+Epoch [17/20], phase: val, samples: 9740, Loss: 0.0009, Top-1 Accuracy: 98.94%, Top-3 Accuracy: 99.90%
+Epoch [18/20], phase: train, samples: 77916, Loss: 0.0002, Top-1 Accuracy: 99.52%, Top-3 Accuracy: 99.99%
+Epoch [18/20], phase: val, samples: 9740, Loss: 0.0009, Top-1 Accuracy: 98.74%, Top-3 Accuracy: 99.91%
+Epoch [19/20], phase: train, samples: 77916, Loss: 0.0002, Top-1 Accuracy: 99.61%, Top-3 Accuracy: 99.99%
+Epoch [19/20], phase: val, samples: 9740, Loss: 0.0010, Top-1 Accuracy: 98.68%, Top-3 Accuracy: 99.87%
+Epoch [20/20], phase: train, samples: 77916, Loss: 0.0002, Top-1 Accuracy: 99.62%, Top-3 Accuracy: 99.99%
+Epoch [20/20], phase: val, samples: 9740, Loss: 0.0010, Top-1 Accuracy: 98.88%, Top-3 Accuracy: 99.86%
+Elapsed time: 3587.9221711158752 seconds
+weight saved as: resnet152.pt
+[2024-03-23 13:58:57] Training model: swin_v2_t
+Total parameters: 28,288,354
+Learning rate=0.005
+Epoch [1/20], phase: train, samples: 77916, Loss: 0.0383, Top-1 Accuracy: 10.15%, Top-3 Accuracy: 30.42%
+Epoch [1/20], phase: val, samples: 9740, Loss: 0.0364, Top-1 Accuracy: 9.85%, Top-3 Accuracy: 28.85%
+Epoch [2/20], phase: train, samples: 77916, Loss: 0.0362, Top-1 Accuracy: 10.46%, Top-3 Accuracy: 30.99%
+Epoch [2/20], phase: val, samples: 9740, Loss: 0.0363, Top-1 Accuracy: 9.10%, Top-3 Accuracy: 28.80%
+Epoch [3/20], phase: train, samples: 77916, Loss: 0.0361, Top-1 Accuracy: 10.55%, Top-3 Accuracy: 30.93%
+Epoch [3/20], phase: val, samples: 9740, Loss: 0.0364, Top-1 Accuracy: 9.85%, Top-3 Accuracy: 30.67%
+Epoch [4/20], phase: train, samples: 77916, Loss: 0.0361, Top-1 Accuracy: 10.52%, Top-3 Accuracy: 30.81%
+Epoch [4/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.85%, Top-3 Accuracy: 30.67%
+Epoch [5/20], phase: train, samples: 77916, Loss: 0.0361, Top-1 Accuracy: 10.61%, Top-3 Accuracy: 30.98%
+Epoch [5/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.10%, Top-3 Accuracy: 30.10%
+Epoch [6/20], phase: train, samples: 77916, Loss: 0.0361, Top-1 Accuracy: 10.61%, Top-3 Accuracy: 31.19%
+Epoch [6/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.10%, Top-3 Accuracy: 30.67%
+Epoch [7/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.60%, Top-3 Accuracy: 31.16%
+Epoch [7/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 31.49%
+Epoch [8/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.57%, Top-3 Accuracy: 31.17%
+Epoch [8/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 30.09%
+Epoch [9/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.69%, Top-3 Accuracy: 31.18%
+Epoch [9/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 30.91%
+Epoch [10/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.63%, Top-3 Accuracy: 31.35%
+Epoch [10/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 28.86%
+Epoch [11/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.73%, Top-3 Accuracy: 31.26%
+Epoch [11/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 31.49%
+Epoch [12/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.66%, Top-3 Accuracy: 31.34%
+Epoch [12/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.10%, Top-3 Accuracy: 30.68%
+Epoch [13/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.70%, Top-3 Accuracy: 31.36%
+Epoch [13/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 31.49%
+Epoch [14/20], phase: train, samples: 77916, Loss: 0.0361, Top-1 Accuracy: 10.56%, Top-3 Accuracy: 31.09%
+Epoch [14/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 30.68%
+Epoch [15/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.74%, Top-3 Accuracy: 31.02%
+Epoch [15/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 30.09%
+Epoch [16/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.65%, Top-3 Accuracy: 31.15%
+Epoch [16/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 28.86%
+Epoch [17/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.57%, Top-3 Accuracy: 31.17%
+Epoch [17/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 28.86%
+Epoch [18/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.69%, Top-3 Accuracy: 31.24%
+Epoch [18/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 28.86%
+Epoch [19/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.70%, Top-3 Accuracy: 31.28%
+Epoch [19/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 31.49%
+Epoch [20/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.73%, Top-3 Accuracy: 31.12%
+Epoch [20/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.10%, Top-3 Accuracy: 30.68%
+Elapsed time: 3686.6833996772766 seconds
+weight saved as: swin_v2_t.pt
+[2024-03-23 15:00:24] Training model: swin_v2_s
+Total parameters: 49,606,258
+Learning rate=0.005
+Epoch [1/20], phase: train, samples: 77916, Loss: 0.0369, Top-1 Accuracy: 10.25%, Top-3 Accuracy: 30.72%
+Epoch [1/20], phase: val, samples: 9740, Loss: 0.0363, Top-1 Accuracy: 9.85%, Top-3 Accuracy: 30.67%
+Epoch [2/20], phase: train, samples: 77916, Loss: 0.0361, Top-1 Accuracy: 10.54%, Top-3 Accuracy: 31.01%
+Epoch [2/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.85%, Top-3 Accuracy: 30.03%
+Epoch [3/20], phase: train, samples: 77916, Loss: 0.0361, Top-1 Accuracy: 10.59%, Top-3 Accuracy: 31.05%
+Epoch [3/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 30.68%
+Epoch [4/20], phase: train, samples: 77916, Loss: 0.0361, Top-1 Accuracy: 10.71%, Top-3 Accuracy: 31.21%
+Epoch [4/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 31.49%
+Epoch [5/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.76%, Top-3 Accuracy: 31.11%
+Epoch [5/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 28.86%
+Epoch [6/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.68%, Top-3 Accuracy: 31.31%
+Epoch [6/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 29.43%
+Epoch [7/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.65%, Top-3 Accuracy: 31.22%
+Epoch [7/20], phase: val, samples: 9740, Loss: 0.0363, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 28.86%
+Epoch [8/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.79%, Top-3 Accuracy: 31.31%
+Epoch [8/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 30.10%
+Epoch [9/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.73%, Top-3 Accuracy: 31.21%
+Epoch [9/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 30.68%
+Epoch [10/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.61%, Top-3 Accuracy: 31.17%
+Epoch [10/20], phase: val, samples: 9740, Loss: 0.0363, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 30.09%
+Epoch [11/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.64%, Top-3 Accuracy: 31.26%
+Epoch [11/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 28.86%
+Epoch [12/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.72%, Top-3 Accuracy: 31.23%
+Epoch [12/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 28.86%
+Epoch [13/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.65%, Top-3 Accuracy: 31.26%
+Epoch [13/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 30.68%
+Epoch [14/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.66%, Top-3 Accuracy: 31.23%
+Epoch [14/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 30.68%
+Epoch [15/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.56%, Top-3 Accuracy: 31.22%
+Epoch [15/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 31.49%
+Epoch [16/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.66%, Top-3 Accuracy: 31.34%
+Epoch [16/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 31.91%
+Epoch [17/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.64%, Top-3 Accuracy: 31.24%
+Epoch [17/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 28.86%
+Epoch [18/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.66%, Top-3 Accuracy: 31.29%
+Epoch [18/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 28.86%
+Epoch [19/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.65%, Top-3 Accuracy: 31.26%
+Epoch [19/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 30.68%
+Epoch [20/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.62%, Top-3 Accuracy: 31.28%
+Epoch [20/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 28.86%
+Elapsed time: 6473.485785961151 seconds
+weight saved as: swin_v2_s.pt
+[2024-03-23 16:48:19] Training model: swin_v2_b
+Total parameters: 87,768,224
+Learning rate=0.005
+Epoch [1/20], phase: train, samples: 77916, Loss: 0.0377, Top-1 Accuracy: 10.21%, Top-3 Accuracy: 30.38%
+Epoch [1/20], phase: val, samples: 9740, Loss: 0.0363, Top-1 Accuracy: 9.85%, Top-3 Accuracy: 28.60%
+Epoch [2/20], phase: train, samples: 77916, Loss: 0.0361, Top-1 Accuracy: 10.50%, Top-3 Accuracy: 30.84%
+Epoch [2/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.10%, Top-3 Accuracy: 31.97%
+Epoch [3/20], phase: train, samples: 77916, Loss: 0.0361, Top-1 Accuracy: 10.62%, Top-3 Accuracy: 31.02%
+Epoch [3/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.91%, Top-3 Accuracy: 30.09%
+Epoch [4/20], phase: train, samples: 77916, Loss: 0.0361, Top-1 Accuracy: 10.52%, Top-3 Accuracy: 30.86%
+Epoch [4/20], phase: val, samples: 9740, Loss: 0.0363, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 30.68%
+Epoch [5/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.48%, Top-3 Accuracy: 30.95%
+Epoch [5/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 29.43%
+Epoch [6/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.68%, Top-3 Accuracy: 31.18%
+Epoch [6/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 28.86%
+Epoch [7/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.66%, Top-3 Accuracy: 31.33%
+Epoch [7/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 28.86%
+Epoch [8/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.72%, Top-3 Accuracy: 31.18%
+Epoch [8/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 28.80%
+Epoch [9/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.69%, Top-3 Accuracy: 31.24%
+Epoch [9/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 30.68%
+Epoch [10/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.58%, Top-3 Accuracy: 31.30%
+Epoch [10/20], phase: val, samples: 9740, Loss: 0.0363, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 28.86%
+Epoch [11/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.63%, Top-3 Accuracy: 31.22%
+Epoch [11/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 30.68%
+Epoch [12/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.61%, Top-3 Accuracy: 31.19%
+Epoch [12/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 28.86%
+Epoch [13/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.69%, Top-3 Accuracy: 31.29%
+Epoch [13/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.10%, Top-3 Accuracy: 30.68%
+Epoch [14/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.61%, Top-3 Accuracy: 31.38%
+Epoch [14/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.10%, Top-3 Accuracy: 30.68%
+Epoch [15/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.62%, Top-3 Accuracy: 31.19%
+Epoch [15/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 30.68%
+Epoch [16/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.69%, Top-3 Accuracy: 31.18%
+Epoch [16/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 31.49%
+Epoch [17/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.59%, Top-3 Accuracy: 31.21%
+Epoch [17/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 28.80%
+Epoch [18/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.63%, Top-3 Accuracy: 31.21%
+Epoch [18/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 28.86%
+Epoch [19/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.70%, Top-3 Accuracy: 31.41%
+Epoch [19/20], phase: val, samples: 9740, Loss: 0.0363, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 31.49%
+Epoch [20/20], phase: train, samples: 77916, Loss: 0.0360, Top-1 Accuracy: 10.61%, Top-3 Accuracy: 31.28%
+Epoch [20/20], phase: val, samples: 9740, Loss: 0.0362, Top-1 Accuracy: 9.86%, Top-3 Accuracy: 30.68%
+Elapsed time: 9066.955730676651 seconds
+weight saved as: swin_v2_b.pt
+[2024-03-23 22:09:23] OFFICIAL START, Focus on the 3rd problem
+[2024-03-23 22:09:31] Training model: vit_h_14
+Total parameters: 633,470,440
+Learning rate=0.005
+[2024-03-23 22:13:08] OFFICIAL START, Focus on the 3rd problem
+[2024-03-23 22:13:13] Training model: vit_h_14
+Total parameters: 633,470,440
+Learning rate=0.005
+[2024-03-23 22:14:06] OFFICIAL START, Focus on the 3rd problem
+[2024-03-23 22:14:12] Training model: vit_h_14
+Total parameters: 633,470,440
+Learning rate=0.005
+[2024-03-23 22:15:34] OFFICIAL START, Focus on the 3rd problem
+[2024-03-23 22:15:40] Training model: vit_h_14
+Total parameters: 633,470,440
+Learning rate=0.005
+[2024-03-24 01:36:39] OFFICIAL START, Focus on the 3rd problem
+[2024-03-24 01:36:50] Training model: vit_h_14
+Total parameters: 633,470,440
+Learning rate=0.005
+[2024-03-24 01:42:21] OFFICIAL START, Focus on the 3rd problem
+[2024-03-24 01:42:30] Training model: vit_h_14
+Total parameters: 633,470,440
+Learning rate=0.005
+[2024-03-24 01:45:22] OFFICIAL START, Focus on the 3rd problem
+[2024-03-24 01:45:31] Training model: vit_h_14
+Total parameters: 633,470,440
+[2024-03-24 01:54:12] OFFICIAL START, Focus on the 3rd problem
+[2024-03-24 12:09:58] OFFICIAL START, Focus on the 3rd problem
