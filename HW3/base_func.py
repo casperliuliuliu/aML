@@ -6,8 +6,10 @@ import numpy as np
 import torch
 from torch import optim, nn
 import time
-def get_dataloaders(train_dataset, val_dataset,test_dataset, transform, train_ratio, val_ratio, batch_size):
-
+def get_dataloaders(dataset, train_ratio, val_ratio, batch_size):
+    train_dataset = dataset
+    val_dataset = dataset
+    test_dataset = dataset
     # obtain training indices that will be used for validation
     num_train = len(test_dataset)
     indices = list(range(num_train))
@@ -31,7 +33,6 @@ def get_dataloaders(train_dataset, val_dataset,test_dataset, transform, train_ra
     print(f"Number of train samples: {len(train_loader)} batches/ {len(train_loader.dataset)} datapoints")
     print(f"Number of val samples: {len(val_loader)} batches/ {len(val_loader.dataset)} datapoints")
     print(f"Number of test samples: {len(test_loader)} batches/ {len(test_loader.dataset)} datapoints")
-    print(f"Data Transform: {transform}")
     print(f"")
     
     dataloaders = {
@@ -74,7 +75,7 @@ def train(model_lists, model_name, loaders, phases = ['train'], save_weight = Fa
 
     model = model.cuda()
     criterion = nn.CrossEntropyLoss()
-    lr= 0.005
+    lr= 0.001
     optimizer = optim.Adam(model.parameters(), lr=lr)
     pprint(f"Learning rate={lr}")
     iteration = 0
