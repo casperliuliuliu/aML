@@ -1,0 +1,8 @@
+[2024-03-26 21:56:42] Training model: VibrationCNN
+Total parameters: 83,929,603
+Learning rate=0.005
+Epoch [1/25], phase: train, samples: 750, Loss: 1.4498, Top-1 Accuracy: 30.53%
+Epoch [2/25], phase: train, samples: 750, Loss: 1.1009, Top-1 Accuracy: 32.27%
+Epoch [3/25], phase: train, samples: 750, Loss: 1.1012, Top-1 Accuracy: 33.73%
+Epoch [4/25], phase: train, samples: 750, Loss: 1.1010, Top-1 Accuracy: 31.73%
+Epoch [5/25], phase: train, samples: 750, Loss: 1.1014, Top-1 Accuracy: 30.80%
