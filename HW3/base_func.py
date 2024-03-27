@@ -92,6 +92,8 @@ def train(model_lists, model_name, loaders, phases = ['train'], save_weight = Fa
                 model.eval()   # Set model to evaluate mode
             for inputs, labels in tqdm(loaders[phase]): # Iterate over data.
                 inputs, labels = inputs.cuda(), labels.cuda()
+                print(inputs.shape)
+                print(labels)
                 outputs = model(inputs)
                 loss = criterion(outputs, labels)
 
