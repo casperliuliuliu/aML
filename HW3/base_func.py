@@ -62,12 +62,6 @@ def count_parameters(model):
 
 def train(model_lists, model_name, loaders, phases = ['train'], save_weight = False):
     model = model_lists[model_name]()
-    if 'res' in model_name:
-        num_features = model.fc.in_features
-        model.fc = torch.nn.Linear(num_features, 10)
-    elif 'swin' in model_name:
-        num_features = model.head.in_features
-        model.head = torch.nn.Linear(num_features, 10)
 
     pprint(f"Training model: {model_name}", True)
     model_parameters_amount = count_parameters(model)
@@ -92,8 +86,6 @@ def train(model_lists, model_name, loaders, phases = ['train'], save_weight = Fa
                 model.eval()   # Set model to evaluate mode
             for inputs, labels in tqdm(loaders[phase]): # Iterate over data.
                 inputs, labels = inputs.cuda(), labels.cuda()
-                print(inputs.shape)
-                print(labels)
                 outputs = model(inputs)
                 loss = criterion(outputs, labels)
 
