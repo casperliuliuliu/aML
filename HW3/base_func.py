@@ -6,6 +6,7 @@ import numpy as np
 import torch
 from torch import optim, nn
 import time
+
 def get_dataloaders(dataset, train_ratio, val_ratio, batch_size):
     train_dataset = dataset
     val_dataset = dataset
@@ -114,6 +115,7 @@ def train(model_lists, model_name, loaders, phases = ['train'], save_weight = Fa
         model_scripted.save(f'{model_name}.pt') # Save
         pprint(f"weight saved as: {model_name}.pt")
     return model
+
 
 def count_classes(data_loader):
     class_counts = {}
