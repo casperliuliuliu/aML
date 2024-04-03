@@ -114,3 +114,15 @@ def train(model_lists, model_name, loaders, phases = ['train'], save_weight = Fa
         model_scripted.save(f'{model_name}.pt') # Save
         pprint(f"weight saved as: {model_name}.pt")
     return model
+
+def count_classes(data_loader):
+    class_counts = {}
+    for _, labels in data_loader:
+        for label in labels:
+            label = label.item()
+            if label in class_counts:
+                class_counts[label] += 1
+            else:
+                class_counts[label] = 1
+                
+    return class_counts
